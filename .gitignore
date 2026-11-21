@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+backend/data/*.sqlite3
+backend/data/*.db
+backend/data/session_secret.key
+backend/models/*.joblib
+mobile_app/android/local.properties
+mobile_app/android/key.properties
+mobile_app/android/app/*.jks
+mobile_app/android/app/*.keystore
+.dart_tool/
+build/
+.flutter-plugins*

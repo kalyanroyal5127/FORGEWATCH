@@ -1,0 +1,4001 @@
+vibration,temperature,current,condition
+2.131,57.22,8.389,Normal
+7.482,57.43,7.003,Abnormal Vibration
+2.072,95.16,8.616,Overheating
+2.759,60.95,14.819,Overcurrent
+1.713,59.11,9.811,Normal
+5.964,57.52,9.032,Abnormal Vibration
+2.05,92.8,9.373,Overheating
+2.381,59.12,14.219,Overcurrent
+2.473,51.18,5.88,Normal
+7.765,53.88,9.376,Abnormal Vibration
+1.615,93.57,7.498,Overheating
+2.059,58.51,17.021,Overcurrent
+2.368,60.92,8.978,Normal
+7.624,54.77,8.03,Abnormal Vibration
+2.08,88.51,7.681,Overheating
+2.569,64.4,17.337,Overcurrent
+2.885,57.58,7.077,Normal
+7.229,62.29,7.056,Abnormal Vibration
+2.322,96.9,9.224,Overheating
+3.314,60.79,15.101,Overcurrent
+1.801,62.29,7.933,Normal
+6.95,61.37,7.777,Abnormal Vibration
+1.316,96.08,7.932,Overheating
+2.773,57.92,16.269,Overcurrent
+2.721,62.02,8.774,Normal
+8.243,62.07,8.881,Abnormal Vibration
+2.186,101.97,8.141,Overheating
+2.255,55.68,15.758,Overcurrent
+2.883,61.67,9.189,Normal
+6.733,61.2,9.056,Abnormal Vibration
+1.899,88.72,10.225,Overheating
+1.995,64.13,15.417,Overcurrent
+2.247,52.41,8.72,Normal
+9.141,61.98,8.503,Abnormal Vibration
+2.335,93.39,7.197,Overheating
+2.355,65.86,17.585,Overcurrent
+2.484,64.9,9.212,Normal
+7.366,55.65,7.252,Abnormal Vibration
+2.108,95.6,7.889,Overheating
+1.447,56.22,17.318,Overcurrent
+2.895,57.8,7.383,Normal
+6.605,60.33,8.992,Abnormal Vibration
+2.744,100.37,9.2,Overheating
+2.492,59.29,16.39,Overcurrent
+2.058,58.5,9.983,Normal
+6.764,60.34,9.696,Abnormal Vibration
+1.371,90.96,8.73,Overheating
+2.618,60.73,16.829,Overcurrent
+2.106,51.33,8.953,Normal
+7.615,54.65,9.023,Abnormal Vibration
+1.923,90.44,9.515,Overheating
+2.383,58.01,13.02,Overcurrent
+2.534,56.62,8.4,Normal
+6.824,57.96,10.741,Abnormal Vibration
+2.368,94.31,7.809,Overheating
+2.064,58.91,19.204,Overcurrent
+2.12,65.84,7.493,Normal
+5.929,72.24,7.63,Abnormal Vibration
+1.938,100.45,9.193,Overheating
+2.077,50.79,17.984,Overcurrent
+2.424,49.19,8.465,Normal
+7.463,67.57,9.062,Abnormal Vibration
+1.605,96.52,8.547,Overheating
+2.478,55.85,14.756,Overcurrent
+1.645,60.9,6.188,Normal
+7.261,60.02,10.022,Abnormal Vibration
+2.681,90.63,7.756,Overheating
+2.933,62.47,21.328,Overcurrent
+2.184,60.79,8.808,Normal
+6.01,68.42,10.007,Abnormal Vibration
+2.008,87.26,9.283,Overheating
+1.117,49.42,15.835,Overcurrent
+2.366,54.54,7.276,Normal
+8.044,59.48,8.87,Abnormal Vibration
+2.58,93.32,9.849,Overheating
+1.883,55.66,12.535,Overcurrent
+2.275,59.12,8.138,Normal
+7.233,59.67,10.217,Abnormal Vibration
+1.956,87.68,8.43,Overheating
+2.14,58.28,17.51,Overcurrent
+2.696,54.79,9.17,Normal
+6.549,59.4,8.919,Abnormal Vibration
+3.16,96.76,6.597,Overheating
+2.004,58.01,16.625,Overcurrent
+1.221,52.79,9.273,Normal
+5.453,66.56,10.303,Abnormal Vibration
+2.569,95.27,10.114,Overheating
+1.652,67.04,12.974,Overcurrent
+2.341,54.71,8.611,Normal
+7.47,64.18,7.077,Abnormal Vibration
+3.071,95.01,8.711,Overheating
+1.869,60.92,14.49,Overcurrent
+3.046,61.56,8.333,Normal
+7.075,54.47,9.731,Abnormal Vibration
+2.421,93.42,9.116,Overheating
+2.567,57.18,17.076,Overcurrent
+2.144,54.13,7.56,Normal
+7.16,53.57,9.366,Abnormal Vibration
+2.954,86.26,8.524,Overheating
+2.017,57.66,15.599,Overcurrent
+2.338,55.93,7.732,Normal
+6.495,66.04,8.34,Abnormal Vibration
+2.021,96.41,7.815,Overheating
+2.549,61.37,15.119,Overcurrent
+2.744,54.43,8.103,Normal
+6.187,61.7,8.502,Abnormal Vibration
+2.47,90.76,7.576,Overheating
+2.318,48.46,16.278,Overcurrent
+1.919,62.67,9.111,Normal
+5.911,54.98,9.195,Abnormal Vibration
+2.04,95.06,8.57,Overheating
+2.218,63.11,15.496,Overcurrent
+1.619,61.25,9.028,Normal
+7.15,54.64,8.526,Abnormal Vibration
+2.158,98.12,6.785,Overheating
+2.514,63.09,15.49,Overcurrent
+2.183,58.04,10.442,Normal
+5.006,60.19,7.029,Abnormal Vibration
+1.23,89.66,9.569,Overheating
+2.091,52.76,14.237,Overcurrent
+2.832,53.53,7.735,Normal
+7.302,58.11,9.925,Abnormal Vibration
+1.62,97.63,7.927,Overheating
+2.384,57.46,15.154,Overcurrent
+2.135,58.81,10.028,Normal
+7.783,56.42,7.454,Abnormal Vibration
+1.918,99.22,6.598,Overheating
+1.561,54.5,13.865,Overcurrent
+2.162,58.33,7.501,Normal
+5.968,64.74,6.528,Abnormal Vibration
+2.588,94.65,8.111,Overheating
+2.532,57.0,14.757,Overcurrent
+2.82,55.77,8.84,Normal
+7.062,58.48,8.332,Abnormal Vibration
+1.713,95.22,9.914,Overheating
+2.552,61.77,16.485,Overcurrent
+2.302,61.89,8.569,Normal
+7.195,58.11,6.612,Abnormal Vibration
+2.398,98.64,8.651,Overheating
+2.2,53.39,14.448,Overcurrent
+1.544,60.85,8.292,Normal
+8.101,58.33,9.544,Abnormal Vibration
+1.89,85.89,7.967,Overheating
+2.524,63.35,15.211,Overcurrent
+2.724,47.45,8.677,Normal
+8.025,55.43,9.892,Abnormal Vibration
+2.075,91.44,8.112,Overheating
+1.572,64.21,17.277,Overcurrent
+1.675,67.36,10.48,Normal
+7.556,53.93,7.634,Abnormal Vibration
+1.762,86.47,9.589,Overheating
+3.163,65.05,13.738,Overcurrent
+2.064,53.36,8.236,Normal
+6.251,56.97,10.303,Abnormal Vibration
+2.069,92.87,9.138,Overheating
+3.132,58.93,16.88,Overcurrent
+1.957,51.97,8.802,Normal
+6.766,58.75,8.875,Abnormal Vibration
+2.402,102.69,7.392,Overheating
+2.083,54.55,16.248,Overcurrent
+2.858,61.68,6.819,Normal
+5.694,55.64,7.158,Abnormal Vibration
+2.249,92.47,8.891,Overheating
+1.817,53.56,14.347,Overcurrent
+2.102,57.9,7.604,Normal
+7.631,54.58,8.496,Abnormal Vibration
+2.286,92.11,6.848,Overheating
+2.333,60.89,16.255,Overcurrent
+2.779,57.2,8.405,Normal
+7.262,59.11,9.175,Abnormal Vibration
+2.273,100.27,8.33,Overheating
+2.102,57.24,17.259,Overcurrent
+1.79,62.1,7.563,Normal
+7.453,58.93,8.63,Abnormal Vibration
+2.71,89.45,8.943,Overheating
+2.804,60.85,16.301,Overcurrent
+1.823,56.53,9.002,Normal
+7.354,58.56,7.14,Abnormal Vibration
+1.868,84.72,8.345,Overheating
+2.535,61.83,14.41,Overcurrent
+1.746,57.32,6.076,Normal
+6.78,60.99,8.188,Abnormal Vibration
+2.287,94.09,9.594,Overheating
+1.869,55.92,18.49,Overcurrent
+2.046,53.26,7.63,Normal
+6.152,59.48,7.139,Abnormal Vibration
+1.252,87.44,9.068,Overheating
+1.36,58.8,16.692,Overcurrent
+2.555,57.96,7.202,Normal
+5.978,60.25,7.917,Abnormal Vibration
+2.729,94.08,8.091,Overheating
+2.695,59.19,17.091,Overcurrent
+3.231,64.25,9.173,Normal
+6.884,74.88,7.301,Abnormal Vibration
+1.864,86.86,8.92,Overheating
+2.328,60.46,14.048,Overcurrent
+1.852,56.03,8.523,Normal
+5.728,61.31,7.55,Abnormal Vibration
+1.845,105.7,7.927,Overheating
+2.436,52.76,16.389,Overcurrent
+1.635,68.69,7.509,Normal
+6.354,64.57,8.391,Abnormal Vibration
+2.069,94.28,9.376,Overheating
+1.528,58.19,12.507,Overcurrent
+1.865,51.55,9.087,Normal
+6.803,66.36,7.927,Abnormal Vibration
+2.531,93.29,8.081,Overheating
+3.259,57.52,16.192,Overcurrent
+2.478,53.4,8.252,Normal
+7.83,56.75,10.377,Abnormal Vibration
+2.156,99.25,8.189,Overheating
+1.93,64.53,15.536,Overcurrent
+3.037,48.96,9.688,Normal
+7.901,57.59,8.327,Abnormal Vibration
+0.686,94.18,7.934,Overheating
+1.771,57.01,15.358,Overcurrent
+1.794,59.1,9.081,Normal
+7.241,55.05,8.182,Abnormal Vibration
+2.058,95.86,6.938,Overheating
+1.761,53.69,17.858,Overcurrent
+2.133,63.17,8.772,Normal
+6.549,53.12,9.258,Abnormal Vibration
+1.677,88.94,8.323,Overheating
+2.043,55.85,16.804,Overcurrent
+1.811,63.87,7.35,Normal
+6.659,63.34,6.915,Abnormal Vibration
+2.487,94.94,6.845,Overheating
+2.107,63.78,20.857,Overcurrent
+1.41,57.9,7.433,Normal
+6.539,61.7,9.254,Abnormal Vibration
+1.842,96.54,10.21,Overheating
+2.075,62.2,17.56,Overcurrent
+1.421,54.79,8.695,Normal
+7.308,62.31,7.491,Abnormal Vibration
+3.259,93.9,9.371,Overheating
+2.568,66.12,17.958,Overcurrent
+1.78,60.66,9.404,Normal
+6.516,62.94,7.825,Abnormal Vibration
+2.199,98.68,8.809,Overheating
+1.849,58.35,15.086,Overcurrent
+2.601,57.83,9.951,Normal
+6.649,57.11,9.777,Abnormal Vibration
+1.471,83.17,8.914,Overheating
+2.221,56.18,14.834,Overcurrent
+1.921,53.9,7.446,Normal
+5.834,51.54,7.469,Abnormal Vibration
+1.481,90.58,7.979,Overheating
+1.611,60.15,15.309,Overcurrent
+1.977,65.17,8.74,Normal
+5.355,46.36,7.846,Abnormal Vibration
+1.995,96.59,7.826,Overheating
+1.709,60.59,15.581,Overcurrent
+2.402,60.41,8.373,Normal
+4.854,56.14,8.049,Abnormal Vibration
+3.049,100.6,7.324,Overheating
+2.793,58.49,16.67,Overcurrent
+1.902,52.73,9.543,Normal
+8.943,60.55,8.959,Abnormal Vibration
+2.356,94.32,7.664,Overheating
+2.371,62.41,15.472,Overcurrent
+2.666,64.95,10.361,Normal
+8.218,62.94,10.212,Abnormal Vibration
+2.547,86.76,7.71,Overheating
+2.672,56.44,15.074,Overcurrent
+2.011,59.05,7.478,Normal
+6.568,59.11,8.423,Abnormal Vibration
+2.578,100.17,7.899,Overheating
+2.627,46.06,14.983,Overcurrent
+2.575,58.85,8.974,Normal
+6.161,53.95,7.753,Abnormal Vibration
+2.118,90.36,8.671,Overheating
+2.635,62.13,17.138,Overcurrent
+2.289,61.03,9.11,Normal
+8.88,63.8,10.219,Abnormal Vibration
+2.217,93.99,8.916,Overheating
+2.497,57.45,18.814,Overcurrent
+2.279,58.3,9.382,Normal
+6.163,59.31,8.436,Abnormal Vibration
+2.185,88.09,8.71,Overheating
+2.64,61.37,15.84,Overcurrent
+2.4,49.16,7.403,Normal
+6.346,59.55,8.421,Abnormal Vibration
+2.264,95.65,7.431,Overheating
+2.099,63.38,17.175,Overcurrent
+2.354,54.2,7.564,Normal
+7.022,70.96,7.421,Abnormal Vibration
+2.027,84.66,7.916,Overheating
+1.721,51.74,14.905,Overcurrent
+1.87,58.97,7.917,Normal
+6.073,56.26,8.725,Abnormal Vibration
+2.515,95.65,8.909,Overheating
+2.117,58.98,18.154,Overcurrent
+2.648,60.17,7.32,Normal
+7.581,55.01,8.255,Abnormal Vibration
+1.77,83.94,8.504,Overheating
+1.972,46.37,15.121,Overcurrent
+1.907,56.54,8.106,Normal
+6.229,64.76,9.715,Abnormal Vibration
+2.802,101.63,7.685,Overheating
+1.125,60.59,15.77,Overcurrent
+2.114,65.64,7.689,Normal
+6.501,60.82,8.248,Abnormal Vibration
+2.172,89.28,9.384,Overheating
+1.984,59.45,15.704,Overcurrent
+2.192,54.87,7.7,Normal
+7.385,53.07,9.665,Abnormal Vibration
+1.587,97.81,8.667,Overheating
+2.756,56.35,15.03,Overcurrent
+1.729,54.64,8.785,Normal
+7.496,55.79,7.762,Abnormal Vibration
+1.959,92.68,8.348,Overheating
+1.686,61.72,16.065,Overcurrent
+2.263,60.37,8.469,Normal
+7.574,65.45,8.58,Abnormal Vibration
+2.619,98.53,7.372,Overheating
+1.447,66.05,16.3,Overcurrent
+2.225,65.88,7.554,Normal
+6.345,55.31,8.238,Abnormal Vibration
+2.274,102.02,7.686,Overheating
+1.532,52.25,15.668,Overcurrent
+2.401,55.21,7.467,Normal
+6.792,54.92,9.025,Abnormal Vibration
+2.565,98.5,9.541,Overheating
+2.576,61.46,15.581,Overcurrent
+1.322,59.31,7.826,Normal
+6.338,60.37,7.148,Abnormal Vibration
+2.032,88.22,8.667,Overheating
+2.223,50.4,17.147,Overcurrent
+1.573,55.48,7.083,Normal
+8.035,56.21,8.09,Abnormal Vibration
+2.416,99.58,9.258,Overheating
+2.397,56.17,18.83,Overcurrent
+2.517,65.97,9.427,Normal
+7.158,53.09,7.386,Abnormal Vibration
+1.399,90.67,9.367,Overheating
+2.456,51.92,17.638,Overcurrent
+2.3,59.31,10.205,Normal
+6.677,54.05,9.818,Abnormal Vibration
+2.192,88.35,9.573,Overheating
+2.417,60.36,15.663,Overcurrent
+2.682,54.8,9.647,Normal
+7.352,51.7,8.908,Abnormal Vibration
+2.029,86.79,8.26,Overheating
+3.012,52.92,17.832,Overcurrent
+2.481,61.24,10.017,Normal
+7.877,53.29,9.344,Abnormal Vibration
+2.043,96.88,9.739,Overheating
+1.541,61.51,15.228,Overcurrent
+1.661,55.13,7.667,Normal
+7.734,61.26,8.795,Abnormal Vibration
+2.724,96.69,8.58,Overheating
+3.019,62.05,17.63,Overcurrent
+2.707,49.97,9.381,Normal
+6.839,58.24,7.973,Abnormal Vibration
+2.4,95.09,7.002,Overheating
+1.931,53.72,15.474,Overcurrent
+1.884,54.54,8.781,Normal
+7.045,53.09,7.659,Abnormal Vibration
+2.394,89.88,8.988,Overheating
+3.509,53.77,16.31,Overcurrent
+1.767,61.72,10.301,Normal
+7.2,58.78,7.982,Abnormal Vibration
+2.887,101.73,7.596,Overheating
+2.758,60.19,16.105,Overcurrent
+1.818,60.1,8.184,Normal
+8.117,62.17,8.691,Abnormal Vibration
+2.135,95.94,9.615,Overheating
+2.338,72.46,16.271,Overcurrent
+3.032,54.38,7.459,Normal
+7.83,60.4,9.126,Abnormal Vibration
+1.55,93.51,9.697,Overheating
+2.216,61.04,17.027,Overcurrent
+1.679,57.21,7.288,Normal
+7.452,60.39,8.401,Abnormal Vibration
+1.453,94.65,8.033,Overheating
+2.735,54.6,16.199,Overcurrent
+2.214,60.5,7.253,Normal
+7.016,58.28,9.536,Abnormal Vibration
+2.026,88.13,8.441,Overheating
+2.107,63.7,14.607,Overcurrent
+2.544,49.66,6.38,Normal
+6.441,58.81,8.72,Abnormal Vibration
+2.128,85.92,8.72,Overheating
+2.128,59.18,15.164,Overcurrent
+2.578,64.97,6.996,Normal
+8.557,52.44,7.155,Abnormal Vibration
+2.521,97.21,8.719,Overheating
+2.287,68.11,11.211,Overcurrent
+2.061,54.69,8.296,Normal
+8.359,55.07,7.415,Abnormal Vibration
+2.487,97.38,9.18,Overheating
+2.808,53.25,15.028,Overcurrent
+2.754,57.13,6.228,Normal
+7.151,49.97,8.283,Abnormal Vibration
+2.007,89.78,7.384,Overheating
+2.081,63.8,15.244,Overcurrent
+2.811,51.84,9.185,Normal
+6.622,59.06,9.138,Abnormal Vibration
+2.585,92.48,10.912,Overheating
+2.809,60.91,18.177,Overcurrent
+1.691,47.96,9.353,Normal
+8.546,58.23,8.239,Abnormal Vibration
+2.542,87.78,9.232,Overheating
+1.932,53.27,14.116,Overcurrent
+2.787,53.06,7.95,Normal
+7.617,61.9,8.501,Abnormal Vibration
+2.149,98.19,7.526,Overheating
+2.172,61.48,17.776,Overcurrent
+1.963,67.78,7.989,Normal
+7.942,60.97,7.624,Abnormal Vibration
+1.89,96.48,9.293,Overheating
+1.852,57.05,12.747,Overcurrent
+1.935,62.22,7.232,Normal
+6.224,55.17,8.823,Abnormal Vibration
+2.433,100.77,9.636,Overheating
+2.802,58.94,18.118,Overcurrent
+1.574,56.03,9.237,Normal
+5.763,65.17,8.496,Abnormal Vibration
+2.068,101.06,8.149,Overheating
+2.081,51.54,14.164,Overcurrent
+3.016,59.22,7.097,Normal
+7.968,68.66,6.496,Abnormal Vibration
+2.432,96.46,8.843,Overheating
+1.867,64.35,19.134,Overcurrent
+2.933,52.66,8.495,Normal
+6.858,55.79,8.338,Abnormal Vibration
+2.76,96.7,8.49,Overheating
+2.1,54.1,13.571,Overcurrent
+1.634,50.26,7.773,Normal
+6.335,58.24,7.673,Abnormal Vibration
+1.723,97.57,7.264,Overheating
+1.526,58.08,19.885,Overcurrent
+1.337,58.87,8.166,Normal
+6.291,59.42,8.656,Abnormal Vibration
+2.405,90.95,9.809,Overheating
+2.906,57.11,16.837,Overcurrent
+2.161,54.03,9.433,Normal
+7.838,62.58,8.417,Abnormal Vibration
+2.526,98.6,7.468,Overheating
+2.21,67.01,17.202,Overcurrent
+1.833,56.17,8.597,Normal
+7.134,52.73,8.391,Abnormal Vibration
+2.297,97.4,8.1,Overheating
+2.131,57.13,12.692,Overcurrent
+2.232,55.13,7.57,Normal
+7.94,56.01,6.623,Abnormal Vibration
+2.085,97.77,7.826,Overheating
+1.914,56.73,15.795,Overcurrent
+1.384,57.8,7.942,Normal
+8.04,57.04,8.044,Abnormal Vibration
+2.125,101.78,7.626,Overheating
+1.899,59.69,15.513,Overcurrent
+2.2,60.64,9.183,Normal
+6.566,58.82,7.555,Abnormal Vibration
+1.889,107.03,10.097,Overheating
+2.173,54.21,18.572,Overcurrent
+1.462,56.57,7.934,Normal
+8.316,53.44,9.602,Abnormal Vibration
+2.12,93.56,6.961,Overheating
+2.097,46.39,16.568,Overcurrent
+1.387,51.64,7.751,Normal
+6.343,56.62,7.542,Abnormal Vibration
+2.347,92.85,8.393,Overheating
+2.419,57.31,16.165,Overcurrent
+2.627,63.61,7.04,Normal
+7.173,66.02,7.527,Abnormal Vibration
+2.029,90.65,9.02,Overheating
+2.83,54.14,17.638,Overcurrent
+3.138,55.69,9.282,Normal
+6.176,50.88,7.545,Abnormal Vibration
+1.958,100.39,8.528,Overheating
+2.403,69.94,17.263,Overcurrent
+2.399,64.78,8.121,Normal
+7.136,65.33,7.779,Abnormal Vibration
+2.442,103.16,7.625,Overheating
+2.09,65.8,15.669,Overcurrent
+2.583,57.07,7.601,Normal
+7.275,59.23,7.834,Abnormal Vibration
+1.117,91.44,8.32,Overheating
+1.723,54.02,18.379,Overcurrent
+1.529,56.76,9.477,Normal
+7.211,57.58,8.049,Abnormal Vibration
+2.151,84.25,7.784,Overheating
+2.82,61.7,17.288,Overcurrent
+3.375,55.2,9.799,Normal
+6.727,56.93,7.394,Abnormal Vibration
+2.01,92.39,9.03,Overheating
+2.42,56.11,13.348,Overcurrent
+1.752,61.17,10.858,Normal
+8.299,66.23,7.583,Abnormal Vibration
+2.236,90.76,10.282,Overheating
+3.609,52.94,18.893,Overcurrent
+1.847,55.11,8.631,Normal
+7.367,59.74,7.754,Abnormal Vibration
+2.506,87.74,8.828,Overheating
+2.214,55.21,13.319,Overcurrent
+2.469,53.21,9.772,Normal
+6.914,58.99,9.005,Abnormal Vibration
+2.524,94.29,9.231,Overheating
+1.009,55.69,18.324,Overcurrent
+2.25,57.43,8.165,Normal
+7.762,60.61,7.521,Abnormal Vibration
+2.792,96.32,8.313,Overheating
+2.547,56.11,15.258,Overcurrent
+2.385,59.93,8.481,Normal
+6.162,53.1,9.137,Abnormal Vibration
+2.309,94.13,7.898,Overheating
+3.005,59.3,13.643,Overcurrent
+2.446,63.12,9.107,Normal
+7.162,60.14,7.197,Abnormal Vibration
+2.452,93.68,8.007,Overheating
+2.376,63.72,17.034,Overcurrent
+2.39,53.39,7.399,Normal
+7.677,62.69,8.895,Abnormal Vibration
+1.479,93.83,9.62,Overheating
+1.569,61.97,20.722,Overcurrent
+2.8,59.56,8.349,Normal
+7.988,57.54,7.061,Abnormal Vibration
+2.332,89.86,7.864,Overheating
+2.671,57.8,13.454,Overcurrent
+1.684,62.8,7.845,Normal
+7.658,55.63,7.74,Abnormal Vibration
+2.737,94.07,8.209,Overheating
+2.239,61.75,15.072,Overcurrent
+1.666,49.79,8.129,Normal
+9.175,62.15,8.122,Abnormal Vibration
+2.163,89.15,8.881,Overheating
+2.3,48.71,16.107,Overcurrent
+2.301,58.7,7.226,Normal
+6.692,65.05,8.995,Abnormal Vibration
+2.402,99.55,10.454,Overheating
+2.397,55.98,15.838,Overcurrent
+1.782,52.51,7.638,Normal
+8.178,61.44,9.413,Abnormal Vibration
+2.273,98.55,10.759,Overheating
+2.969,51.2,14.798,Overcurrent
+0.915,58.33,9.892,Normal
+6.782,58.88,7.646,Abnormal Vibration
+2.337,84.41,9.674,Overheating
+2.355,55.79,17.219,Overcurrent
+1.2,47.1,7.499,Normal
+7.773,57.15,8.53,Abnormal Vibration
+1.544,92.2,8.752,Overheating
+2.15,55.11,18.378,Overcurrent
+1.421,52.49,9.142,Normal
+5.499,57.07,7.237,Abnormal Vibration
+2.325,105.71,10.676,Overheating
+2.309,60.18,17.827,Overcurrent
+2.199,58.29,9.86,Normal
+6.728,67.59,6.863,Abnormal Vibration
+1.766,97.01,8.006,Overheating
+1.639,57.58,18.621,Overcurrent
+1.298,59.64,9.326,Normal
+7.286,53.04,9.162,Abnormal Vibration
+2.465,89.43,10.831,Overheating
+1.962,60.32,13.794,Overcurrent
+2.823,51.44,8.506,Normal
+5.205,54.82,9.633,Abnormal Vibration
+1.849,101.75,9.375,Overheating
+2.572,64.28,16.262,Overcurrent
+1.536,56.31,8.745,Normal
+6.49,64.19,6.521,Abnormal Vibration
+1.489,94.91,9.506,Overheating
+2.947,63.33,14.449,Overcurrent
+2.676,54.89,7.301,Normal
+7.245,58.55,9.766,Abnormal Vibration
+2.788,107.61,8.074,Overheating
+3.074,58.89,13.426,Overcurrent
+2.393,56.85,8.967,Normal
+7.467,59.96,9.642,Abnormal Vibration
+1.853,88.64,9.083,Overheating
+2.545,61.21,14.75,Overcurrent
+1.347,52.94,6.874,Normal
+7.942,56.01,7.579,Abnormal Vibration
+2.262,99.18,9.058,Overheating
+1.431,61.18,14.729,Overcurrent
+2.686,61.11,9.165,Normal
+6.941,64.36,6.959,Abnormal Vibration
+2.223,99.19,9.527,Overheating
+1.835,68.12,14.391,Overcurrent
+3.326,51.58,7.631,Normal
+7.435,53.59,9.027,Abnormal Vibration
+2.254,100.83,6.866,Overheating
+1.804,64.58,19.682,Overcurrent
+2.109,52.77,8.828,Normal
+6.416,50.07,9.236,Abnormal Vibration
+2.892,94.18,8.219,Overheating
+2.084,55.94,14.502,Overcurrent
+2.227,62.46,8.116,Normal
+7.805,52.02,9.692,Abnormal Vibration
+2.426,95.43,9.004,Overheating
+2.038,51.8,14.607,Overcurrent
+2.238,58.29,8.162,Normal
+7.556,57.7,9.029,Abnormal Vibration
+2.684,98.61,8.155,Overheating
+2.274,63.07,15.289,Overcurrent
+2.623,56.84,9.457,Normal
+5.881,62.91,10.79,Abnormal Vibration
+1.937,95.86,8.1,Overheating
+2.023,62.98,16.662,Overcurrent
+1.714,60.46,9.174,Normal
+6.734,58.14,9.9,Abnormal Vibration
+2.024,98.26,9.031,Overheating
+2.064,52.08,15.308,Overcurrent
+2.58,61.57,6.684,Normal
+9.062,57.61,7.458,Abnormal Vibration
+2.327,91.09,11.068,Overheating
+2.01,64.7,16.118,Overcurrent
+2.222,62.37,8.905,Normal
+6.307,62.38,9.345,Abnormal Vibration
+1.87,99.32,7.351,Overheating
+2.045,56.75,15.369,Overcurrent
+2.913,61.37,6.883,Normal
+6.73,60.86,8.002,Abnormal Vibration
+1.787,92.1,8.595,Overheating
+2.747,57.7,17.11,Overcurrent
+2.846,54.69,6.797,Normal
+6.02,51.93,10.142,Abnormal Vibration
+2.043,91.43,9.371,Overheating
+1.824,57.18,18.394,Overcurrent
+2.126,51.93,9.486,Normal
+7.244,56.98,9.272,Abnormal Vibration
+1.621,90.83,7.355,Overheating
+1.749,59.5,13.889,Overcurrent
+1.758,57.99,8.964,Normal
+8.706,48.07,9.787,Abnormal Vibration
+2.96,90.73,9.172,Overheating
+2.291,52.91,13.712,Overcurrent
+2.481,56.4,9.267,Normal
+6.203,55.93,9.343,Abnormal Vibration
+2.073,93.62,9.244,Overheating
+2.33,60.36,14.518,Overcurrent
+2.256,62.56,9.073,Normal
+6.775,57.0,8.601,Abnormal Vibration
+1.991,93.05,7.957,Overheating
+1.887,58.12,16.685,Overcurrent
+2.285,60.01,8.037,Normal
+8.889,62.42,8.345,Abnormal Vibration
+1.525,90.07,7.373,Overheating
+1.821,55.84,14.17,Overcurrent
+2.493,51.52,8.094,Normal
+7.736,60.08,8.772,Abnormal Vibration
+2.476,88.81,9.904,Overheating
+2.166,60.87,16.893,Overcurrent
+2.827,55.75,7.15,Normal
+7.23,58.0,7.951,Abnormal Vibration
+1.993,95.56,9.39,Overheating
+2.46,58.15,12.219,Overcurrent
+1.639,57.82,8.087,Normal
+7.385,60.79,7.522,Abnormal Vibration
+2.26,93.03,7.671,Overheating
+2.789,60.45,15.872,Overcurrent
+1.383,55.9,8.349,Normal
+6.472,63.11,8.925,Abnormal Vibration
+2.262,87.83,8.256,Overheating
+2.423,57.87,13.661,Overcurrent
+1.659,74.41,7.62,Normal
+8.668,59.97,7.518,Abnormal Vibration
+2.169,90.04,10.318,Overheating
+1.966,56.45,16.441,Overcurrent
+2.427,58.82,9.156,Normal
+8.237,59.52,8.259,Abnormal Vibration
+1.866,97.82,8.307,Overheating
+3.077,47.81,15.354,Overcurrent
+3.02,56.17,11.229,Normal
+7.629,59.57,8.114,Abnormal Vibration
+1.929,94.54,6.677,Overheating
+1.481,52.11,15.806,Overcurrent
+2.693,51.91,8.921,Normal
+7.133,56.64,7.696,Abnormal Vibration
+2.624,92.63,9.347,Overheating
+3.028,58.12,13.423,Overcurrent
+1.515,59.72,8.273,Normal
+6.67,54.92,8.35,Abnormal Vibration
+2.342,90.56,10.365,Overheating
+2.737,53.25,14.654,Overcurrent
+2.805,59.97,8.637,Normal
+8.381,53.12,9.903,Abnormal Vibration
+2.184,93.12,9.149,Overheating
+2.104,55.78,15.238,Overcurrent
+2.55,56.52,8.072,Normal
+7.632,51.25,10.06,Abnormal Vibration
+2.616,94.73,9.957,Overheating
+2.897,57.94,15.155,Overcurrent
+2.237,59.01,9.993,Normal
+4.89,58.4,9.719,Abnormal Vibration
+1.974,96.12,9.387,Overheating
+2.173,55.92,19.043,Overcurrent
+2.739,63.88,8.511,Normal
+7.091,60.5,8.475,Abnormal Vibration
+2.188,92.79,7.629,Overheating
+1.535,60.69,14.769,Overcurrent
+1.323,59.77,8.738,Normal
+8.655,52.0,6.582,Abnormal Vibration
+2.096,96.07,8.429,Overheating
+1.586,55.99,14.261,Overcurrent
+1.86,49.87,8.039,Normal
+7.19,52.66,8.367,Abnormal Vibration
+1.798,99.61,9.218,Overheating
+2.042,62.02,14.37,Overcurrent
+1.873,71.12,8.089,Normal
+6.355,57.03,9.331,Abnormal Vibration
+1.717,81.61,8.699,Overheating
+2.211,57.18,16.514,Overcurrent
+2.364,58.39,8.79,Normal
+6.06,54.33,7.648,Abnormal Vibration
+2.578,90.99,9.114,Overheating
+1.942,56.02,16.843,Overcurrent
+3.035,53.64,8.274,Normal
+6.915,51.62,8.345,Abnormal Vibration
+1.954,92.58,8.697,Overheating
+2.639,60.48,16.633,Overcurrent
+1.913,64.9,8.47,Normal
+8.283,56.17,6.999,Abnormal Vibration
+3.217,93.45,8.248,Overheating
+1.915,63.48,15.607,Overcurrent
+3.194,58.15,8.258,Normal
+7.724,54.64,9.953,Abnormal Vibration
+2.03,95.31,7.592,Overheating
+1.579,58.01,16.907,Overcurrent
+2.7,61.54,8.377,Normal
+7.615,56.65,8.483,Abnormal Vibration
+1.927,100.79,8.673,Overheating
+3.099,61.57,18.254,Overcurrent
+1.794,54.53,8.928,Normal
+7.539,61.61,8.446,Abnormal Vibration
+1.805,92.18,9.013,Overheating
+2.654,46.03,15.828,Overcurrent
+1.818,58.8,9.0,Normal
+7.534,57.46,8.459,Abnormal Vibration
+2.789,87.48,9.817,Overheating
+2.344,50.26,17.156,Overcurrent
+3.171,58.22,7.752,Normal
+7.979,58.19,8.598,Abnormal Vibration
+2.725,93.92,8.552,Overheating
+1.687,50.69,15.258,Overcurrent
+1.852,57.38,8.149,Normal
+8.798,65.1,8.47,Abnormal Vibration
+2.797,92.53,7.771,Overheating
+1.759,59.87,16.707,Overcurrent
+2.345,58.76,8.143,Normal
+7.061,56.01,9.217,Abnormal Vibration
+2.171,86.63,8.988,Overheating
+2.161,54.08,16.624,Overcurrent
+2.445,65.49,7.999,Normal
+6.323,60.58,9.462,Abnormal Vibration
+2.53,92.59,8.35,Overheating
+2.552,59.92,14.829,Overcurrent
+1.373,57.58,8.229,Normal
+7.548,54.56,9.135,Abnormal Vibration
+1.845,90.52,8.157,Overheating
+2.32,57.93,16.992,Overcurrent
+2.196,54.59,6.746,Normal
+8.37,58.45,8.619,Abnormal Vibration
+1.005,89.1,9.864,Overheating
+2.687,54.35,15.838,Overcurrent
+3.077,59.63,8.55,Normal
+8.535,55.2,9.998,Abnormal Vibration
+2.406,95.47,9.572,Overheating
+2.509,63.11,14.556,Overcurrent
+2.915,59.26,8.824,Normal
+7.368,59.4,9.248,Abnormal Vibration
+2.115,92.56,7.989,Overheating
+2.675,56.48,15.838,Overcurrent
+2.456,60.92,10.474,Normal
+5.768,56.97,9.073,Abnormal Vibration
+3.036,98.85,7.706,Overheating
+1.145,58.96,15.976,Overcurrent
+2.38,61.57,8.911,Normal
+8.242,58.28,8.158,Abnormal Vibration
+2.169,96.27,4.563,Overheating
+2.164,56.04,17.445,Overcurrent
+1.22,72.17,9.654,Normal
+6.439,66.55,8.775,Abnormal Vibration
+2.693,99.99,9.1,Overheating
+2.457,51.47,15.803,Overcurrent
+1.844,47.6,7.315,Normal
+7.928,63.06,11.253,Abnormal Vibration
+1.822,97.07,9.582,Overheating
+2.388,59.07,19.578,Overcurrent
+2.205,58.71,9.004,Normal
+6.576,48.13,8.994,Abnormal Vibration
+2.832,89.71,9.997,Overheating
+2.743,50.66,15.62,Overcurrent
+2.65,56.39,9.182,Normal
+8.628,59.72,8.943,Abnormal Vibration
+1.931,100.03,8.146,Overheating
+3.323,54.41,16.262,Overcurrent
+1.868,55.63,8.171,Normal
+8.185,64.44,9.625,Abnormal Vibration
+3.31,104.12,6.003,Overheating
+2.32,57.75,13.837,Overcurrent
+2.532,57.36,6.347,Normal
+7.382,62.72,9.779,Abnormal Vibration
+3.56,100.67,10.31,Overheating
+2.599,51.97,14.814,Overcurrent
+2.324,58.0,8.875,Normal
+7.207,60.15,9.488,Abnormal Vibration
+2.062,90.13,9.372,Overheating
+1.764,61.9,17.088,Overcurrent
+2.657,53.08,8.271,Normal
+6.993,65.78,9.364,Abnormal Vibration
+2.604,96.33,8.383,Overheating
+2.608,57.36,16.567,Overcurrent
+2.073,52.85,7.732,Normal
+7.019,58.12,9.062,Abnormal Vibration
+2.416,96.02,9.046,Overheating
+2.473,64.47,13.451,Overcurrent
+2.163,61.64,8.525,Normal
+7.658,50.25,7.666,Abnormal Vibration
+2.573,90.44,8.867,Overheating
+1.647,58.32,16.634,Overcurrent
+2.55,65.55,9.449,Normal
+7.286,62.23,7.032,Abnormal Vibration
+2.706,103.55,9.328,Overheating
+1.844,61.58,17.783,Overcurrent
+2.256,61.52,10.047,Normal
+6.61,57.06,8.132,Abnormal Vibration
+2.698,84.95,8.256,Overheating
+1.896,59.95,12.866,Overcurrent
+1.987,48.82,8.825,Normal
+6.428,58.27,9.797,Abnormal Vibration
+1.169,86.85,8.969,Overheating
+2.023,56.44,15.015,Overcurrent
+3.478,56.82,8.687,Normal
+4.517,46.11,9.881,Abnormal Vibration
+2.851,93.46,7.141,Overheating
+3.254,59.44,14.772,Overcurrent
+2.512,56.33,9.214,Normal
+6.044,60.38,8.818,Abnormal Vibration
+1.704,95.45,8.013,Overheating
+1.511,54.02,14.652,Overcurrent
+1.995,57.2,8.222,Normal
+6.473,55.43,9.355,Abnormal Vibration
+2.571,93.56,8.325,Overheating
+2.464,52.63,19.26,Overcurrent
+2.443,56.38,9.142,Normal
+7.096,47.87,8.661,Abnormal Vibration
+2.368,99.71,8.28,Overheating
+2.128,56.07,15.369,Overcurrent
+2.713,57.21,8.863,Normal
+7.423,52.38,9.219,Abnormal Vibration
+2.506,94.6,7.031,Overheating
+1.237,60.34,16.748,Overcurrent
+2.548,55.57,8.477,Normal
+7.301,50.56,9.144,Abnormal Vibration
+2.655,99.52,8.504,Overheating
+2.852,54.54,18.946,Overcurrent
+1.518,57.79,8.677,Normal
+7.955,53.8,9.464,Abnormal Vibration
+3.072,99.48,8.018,Overheating
+3.071,57.96,15.654,Overcurrent
+2.663,61.05,9.613,Normal
+6.178,56.06,7.596,Abnormal Vibration
+2.141,95.09,10.227,Overheating
+2.207,57.4,14.781,Overcurrent
+2.15,57.65,8.473,Normal
+6.643,53.99,10.955,Abnormal Vibration
+1.806,93.93,9.149,Overheating
+2.738,54.29,15.407,Overcurrent
+2.334,51.39,8.393,Normal
+6.269,54.37,7.676,Abnormal Vibration
+2.131,99.83,11.248,Overheating
+1.594,51.08,18.515,Overcurrent
+2.515,55.63,9.502,Normal
+7.572,64.58,7.434,Abnormal Vibration
+1.585,92.69,7.221,Overheating
+1.511,61.49,14.617,Overcurrent
+2.433,64.89,8.845,Normal
+6.604,56.72,8.396,Abnormal Vibration
+1.378,89.86,9.743,Overheating
+1.273,57.6,13.244,Overcurrent
+2.291,59.85,9.037,Normal
+7.724,60.74,6.916,Abnormal Vibration
+2.861,88.93,8.871,Overheating
+2.825,55.22,15.392,Overcurrent
+2.525,55.6,10.378,Normal
+6.176,59.66,6.421,Abnormal Vibration
+3.108,93.97,6.489,Overheating
+1.903,60.56,17.046,Overcurrent
+2.409,60.29,7.407,Normal
+6.654,62.14,7.888,Abnormal Vibration
+2.896,91.88,7.363,Overheating
+1.98,57.71,15.601,Overcurrent
+3.003,61.75,9.983,Normal
+7.817,58.5,9.675,Abnormal Vibration
+1.874,92.94,9.46,Overheating
+2.511,58.7,16.193,Overcurrent
+1.802,65.66,9.048,Normal
+6.929,55.62,7.959,Abnormal Vibration
+1.786,91.43,9.213,Overheating
+2.047,59.69,15.345,Overcurrent
+2.949,54.64,7.983,Normal
+8.728,48.43,7.316,Abnormal Vibration
+2.003,90.41,10.62,Overheating
+1.916,59.85,15.16,Overcurrent
+2.136,52.02,8.966,Normal
+7.666,57.27,8.276,Abnormal Vibration
+1.942,101.36,8.432,Overheating
+2.176,57.49,15.386,Overcurrent
+1.737,53.86,9.36,Normal
+6.071,58.42,8.024,Abnormal Vibration
+1.977,90.62,8.085,Overheating
+1.995,56.49,15.341,Overcurrent
+2.153,55.79,8.858,Normal
+7.116,58.95,9.133,Abnormal Vibration
+2.782,93.6,9.988,Overheating
+2.331,54.93,17.309,Overcurrent
+2.025,64.71,8.526,Normal
+6.778,53.28,8.223,Abnormal Vibration
+2.685,91.72,8.424,Overheating
+2.187,61.26,15.905,Overcurrent
+1.985,58.46,8.629,Normal
+6.666,55.96,10.24,Abnormal Vibration
+2.926,103.37,9.447,Overheating
+2.467,56.57,14.926,Overcurrent
+2.602,51.34,7.078,Normal
+7.985,62.56,8.914,Abnormal Vibration
+2.572,100.42,7.031,Overheating
+2.414,51.81,15.25,Overcurrent
+2.145,56.52,9.051,Normal
+7.613,52.8,9.173,Abnormal Vibration
+1.516,93.24,9.388,Overheating
+2.29,54.56,16.835,Overcurrent
+2.158,59.93,8.265,Normal
+7.936,58.73,8.437,Abnormal Vibration
+1.997,87.48,8.644,Overheating
+0.984,53.06,14.726,Overcurrent
+1.462,56.99,9.716,Normal
+6.826,58.04,9.421,Abnormal Vibration
+1.777,95.67,7.416,Overheating
+2.188,56.37,17.82,Overcurrent
+1.437,59.21,8.211,Normal
+7.149,58.18,8.816,Abnormal Vibration
+2.318,96.09,7.899,Overheating
+1.365,60.06,17.01,Overcurrent
+1.972,58.74,7.045,Normal
+7.185,61.71,9.12,Abnormal Vibration
+2.197,90.88,9.236,Overheating
+1.922,54.94,14.143,Overcurrent
+1.164,57.02,8.753,Normal
+6.764,62.88,7.207,Abnormal Vibration
+1.508,91.6,8.395,Overheating
+2.22,54.82,18.529,Overcurrent
+2.589,57.17,6.959,Normal
+8.058,60.58,8.67,Abnormal Vibration
+2.789,91.53,8.032,Overheating
+2.002,62.07,13.311,Overcurrent
+2.423,57.55,8.033,Normal
+6.234,63.27,9.196,Abnormal Vibration
+2.273,83.51,7.139,Overheating
+2.574,61.96,15.904,Overcurrent
+3.042,54.6,7.315,Normal
+5.988,60.47,8.203,Abnormal Vibration
+1.832,85.65,9.215,Overheating
+1.613,53.57,19.531,Overcurrent
+2.063,58.28,7.703,Normal
+7.333,55.29,7.988,Abnormal Vibration
+1.564,89.79,8.492,Overheating
+1.914,49.48,12.361,Overcurrent
+1.984,55.77,7.911,Normal
+8.423,54.21,9.734,Abnormal Vibration
+2.119,92.49,8.194,Overheating
+1.802,61.14,13.935,Overcurrent
+2.277,55.67,7.598,Normal
+8.806,49.37,8.066,Abnormal Vibration
+2.409,94.44,9.053,Overheating
+2.046,55.36,15.052,Overcurrent
+2.117,61.33,9.316,Normal
+8.727,55.89,10.107,Abnormal Vibration
+2.377,93.34,9.708,Overheating
+1.242,57.72,16.218,Overcurrent
+3.038,59.12,7.715,Normal
+8.583,49.17,6.594,Abnormal Vibration
+2.611,93.74,8.347,Overheating
+2.194,64.26,12.828,Overcurrent
+2.709,49.32,8.094,Normal
+6.029,58.18,7.243,Abnormal Vibration
+1.698,97.34,8.314,Overheating
+2.853,59.07,14.449,Overcurrent
+2.159,52.83,9.054,Normal
+7.961,62.35,8.472,Abnormal Vibration
+2.13,97.63,9.002,Overheating
+3.258,61.28,14.435,Overcurrent
+1.575,58.35,7.4,Normal
+7.329,56.69,9.142,Abnormal Vibration
+2.365,91.86,8.467,Overheating
+2.151,58.56,15.255,Overcurrent
+2.595,59.48,10.139,Normal
+5.057,55.11,9.759,Abnormal Vibration
+2.913,97.63,6.458,Overheating
+1.695,53.89,15.381,Overcurrent
+1.74,67.04,9.429,Normal
+8.541,54.45,8.296,Abnormal Vibration
+1.728,92.59,9.775,Overheating
+2.248,60.36,12.121,Overcurrent
+2.098,63.58,10.672,Normal
+7.706,57.87,9.865,Abnormal Vibration
+2.342,95.07,8.084,Overheating
+1.473,56.35,15.589,Overcurrent
+1.512,49.51,8.489,Normal
+7.442,54.09,8.728,Abnormal Vibration
+2.284,90.8,7.271,Overheating
+2.043,57.76,14.835,Overcurrent
+1.827,64.69,8.658,Normal
+6.234,56.6,7.264,Abnormal Vibration
+1.56,99.05,10.56,Overheating
+2.863,62.89,16.646,Overcurrent
+2.249,53.19,7.338,Normal
+7.754,52.52,8.701,Abnormal Vibration
+2.561,96.7,7.299,Overheating
+2.134,53.6,16.722,Overcurrent
+1.455,50.32,10.248,Normal
+7.26,56.11,8.572,Abnormal Vibration
+1.711,92.61,9.306,Overheating
+2.189,48.27,17.372,Overcurrent
+1.85,53.72,8.875,Normal
+7.837,59.5,7.934,Abnormal Vibration
+2.982,108.65,6.937,Overheating
+1.564,52.48,15.849,Overcurrent
+2.373,63.9,9.431,Normal
+8.095,58.32,9.511,Abnormal Vibration
+2.74,91.43,9.208,Overheating
+1.567,59.9,17.991,Overcurrent
+1.781,56.28,8.072,Normal
+7.448,61.38,8.523,Abnormal Vibration
+2.975,99.4,9.248,Overheating
+2.783,61.61,15.138,Overcurrent
+2.518,55.35,8.302,Normal
+6.838,52.63,8.847,Abnormal Vibration
+1.836,92.69,8.801,Overheating
+2.283,58.4,15.982,Overcurrent
+1.774,55.74,6.663,Normal
+8.161,52.66,8.101,Abnormal Vibration
+2.196,95.44,7.558,Overheating
+3.014,57.61,14.135,Overcurrent
+2.326,53.76,9.213,Normal
+6.1,50.55,8.98,Abnormal Vibration
+2.491,95.04,7.907,Overheating
+2.868,55.91,15.474,Overcurrent
+1.75,58.44,8.725,Normal
+7.758,61.99,8.87,Abnormal Vibration
+2.287,88.59,7.981,Overheating
+2.3,70.1,14.88,Overcurrent
+2.869,49.61,8.248,Normal
+7.056,54.97,7.906,Abnormal Vibration
+1.94,86.2,7.416,Overheating
+1.736,57.54,14.939,Overcurrent
+1.618,65.22,7.357,Normal
+7.529,53.79,7.781,Abnormal Vibration
+2.421,94.77,9.169,Overheating
+2.5,53.36,16.852,Overcurrent
+2.435,60.69,7.02,Normal
+7.689,58.6,8.645,Abnormal Vibration
+2.251,95.75,9.758,Overheating
+2.558,63.38,16.508,Overcurrent
+2.548,59.2,9.573,Normal
+8.546,53.3,7.747,Abnormal Vibration
+2.289,98.69,7.806,Overheating
+2.469,67.03,17.443,Overcurrent
+2.994,51.55,7.447,Normal
+6.638,55.42,8.079,Abnormal Vibration
+2.129,95.93,7.22,Overheating
+2.26,62.4,16.678,Overcurrent
+2.561,53.88,8.002,Normal
+7.02,62.21,9.147,Abnormal Vibration
+2.111,98.24,7.344,Overheating
+2.571,62.18,17.597,Overcurrent
+1.296,59.01,7.07,Normal
+7.481,57.4,9.683,Abnormal Vibration
+2.311,89.25,8.741,Overheating
+1.531,54.07,13.535,Overcurrent
+2.41,59.39,7.78,Normal
+7.823,60.32,7.868,Abnormal Vibration
+1.856,95.61,9.958,Overheating
+1.589,58.4,14.622,Overcurrent
+1.595,56.28,9.368,Normal
+8.87,63.4,8.455,Abnormal Vibration
+1.794,101.46,8.258,Overheating
+2.215,53.36,14.205,Overcurrent
+1.781,62.17,8.48,Normal
+7.051,54.07,9.797,Abnormal Vibration
+1.26,86.68,7.103,Overheating
+2.445,59.65,14.82,Overcurrent
+2.455,51.39,8.017,Normal
+7.181,55.43,8.6,Abnormal Vibration
+2.426,91.6,9.455,Overheating
+2.513,59.25,16.214,Overcurrent
+1.165,66.63,7.585,Normal
+8.684,56.55,7.19,Abnormal Vibration
+1.903,96.19,7.67,Overheating
+2.87,59.23,18.116,Overcurrent
+2.336,54.75,8.428,Normal
+7.22,59.07,8.502,Abnormal Vibration
+3.094,89.41,8.673,Overheating
+1.696,61.66,15.709,Overcurrent
+2.39,58.82,8.095,Normal
+7.866,61.58,8.029,Abnormal Vibration
+2.112,99.91,8.092,Overheating
+1.932,57.68,16.487,Overcurrent
+2.315,55.01,10.831,Normal
+6.107,47.34,9.804,Abnormal Vibration
+1.541,92.64,9.758,Overheating
+2.301,50.48,15.572,Overcurrent
+1.581,59.46,8.99,Normal
+8.477,63.81,9.084,Abnormal Vibration
+2.174,99.79,9.364,Overheating
+2.04,66.49,16.008,Overcurrent
+2.412,54.15,6.854,Normal
+7.317,62.79,7.576,Abnormal Vibration
+2.499,91.53,9.933,Overheating
+2.676,55.16,18.48,Overcurrent
+2.428,55.8,8.722,Normal
+8.698,56.07,8.105,Abnormal Vibration
+2.871,87.58,7.182,Overheating
+1.665,56.72,13.786,Overcurrent
+2.274,44.94,8.64,Normal
+7.342,52.53,5.62,Abnormal Vibration
+2.536,100.46,8.729,Overheating
+3.011,60.69,16.271,Overcurrent
+1.72,57.93,8.259,Normal
+5.941,64.89,8.272,Abnormal Vibration
+2.382,90.13,8.551,Overheating
+1.992,55.35,14.877,Overcurrent
+2.094,51.9,8.747,Normal
+8.48,61.95,8.881,Abnormal Vibration
+1.545,97.09,8.383,Overheating
+2.627,62.33,16.727,Overcurrent
+2.156,61.27,7.608,Normal
+8.108,64.93,10.506,Abnormal Vibration
+2.901,103.73,9.554,Overheating
+2.174,50.86,16.298,Overcurrent
+1.805,52.61,8.007,Normal
+7.774,62.11,10.205,Abnormal Vibration
+1.531,95.4,7.642,Overheating
+1.805,62.42,15.487,Overcurrent
+2.442,58.28,10.227,Normal
+6.888,59.86,9.743,Abnormal Vibration
+1.96,91.32,7.58,Overheating
+1.708,57.2,15.036,Overcurrent
+2.468,56.3,8.088,Normal
+8.224,65.1,7.763,Abnormal Vibration
+1.36,95.29,9.036,Overheating
+2.257,61.89,17.22,Overcurrent
+1.965,55.18,6.625,Normal
+8.058,54.09,9.508,Abnormal Vibration
+2.093,92.97,8.698,Overheating
+1.5,64.51,16.847,Overcurrent
+2.34,59.3,8.719,Normal
+7.341,54.08,9.492,Abnormal Vibration
+2.219,96.9,8.455,Overheating
+1.637,50.26,17.123,Overcurrent
+2.056,64.17,9.796,Normal
+7.682,64.54,8.764,Abnormal Vibration
+1.873,90.14,8.905,Overheating
+2.103,46.82,15.677,Overcurrent
+1.916,52.8,7.687,Normal
+7.022,53.63,7.087,Abnormal Vibration
+2.038,91.77,6.748,Overheating
+1.772,59.53,17.358,Overcurrent
+3.082,58.0,9.03,Normal
+9.018,57.43,8.525,Abnormal Vibration
+1.653,90.23,8.519,Overheating
+2.369,58.06,14.845,Overcurrent
+2.553,53.81,8.128,Normal
+7.729,64.29,7.75,Abnormal Vibration
+2.159,102.49,8.611,Overheating
+2.936,53.62,14.799,Overcurrent
+2.161,49.82,6.826,Normal
+6.431,59.53,9.253,Abnormal Vibration
+1.695,94.38,9.883,Overheating
+2.288,63.3,16.291,Overcurrent
+2.405,57.14,10.073,Normal
+8.005,54.76,9.182,Abnormal Vibration
+1.974,77.24,9.577,Overheating
+1.372,59.8,18.698,Overcurrent
+2.356,57.54,8.562,Normal
+8.052,55.11,8.622,Abnormal Vibration
+1.457,94.43,8.05,Overheating
+1.839,58.65,15.968,Overcurrent
+2.075,50.51,8.918,Normal
+7.418,56.31,7.009,Abnormal Vibration
+2.039,92.94,8.298,Overheating
+2.738,55.91,18.282,Overcurrent
+2.518,66.92,8.959,Normal
+6.968,62.83,9.422,Abnormal Vibration
+2.459,94.16,8.998,Overheating
+2.138,65.6,13.871,Overcurrent
+2.3,56.65,8.813,Normal
+5.867,59.65,6.802,Abnormal Vibration
+2.872,96.64,9.838,Overheating
+1.944,50.4,16.828,Overcurrent
+3.041,57.09,8.576,Normal
+6.902,55.27,8.746,Abnormal Vibration
+1.781,88.66,10.103,Overheating
+2.247,56.07,16.38,Overcurrent
+2.487,53.79,9.827,Normal
+6.647,66.38,9.592,Abnormal Vibration
+2.453,97.75,8.279,Overheating
+2.188,58.13,14.809,Overcurrent
+2.237,58.8,9.576,Normal
+6.624,58.51,10.094,Abnormal Vibration
+1.699,87.67,9.291,Overheating
+2.209,54.99,15.51,Overcurrent
+2.02,56.35,8.446,Normal
+6.792,55.96,8.971,Abnormal Vibration
+1.982,89.9,6.784,Overheating
+1.879,53.4,14.827,Overcurrent
+1.763,62.57,10.582,Normal
+7.467,59.34,9.624,Abnormal Vibration
+2.075,82.98,8.164,Overheating
+1.796,54.27,15.23,Overcurrent
+1.336,57.87,8.787,Normal
+6.463,59.64,10.891,Abnormal Vibration
+2.832,93.36,7.865,Overheating
+1.842,57.44,15.288,Overcurrent
+2.197,53.34,9.625,Normal
+6.306,54.87,9.363,Abnormal Vibration
+1.344,90.3,9.047,Overheating
+2.453,66.82,14.603,Overcurrent
+2.357,52.47,11.331,Normal
+6.301,61.87,8.594,Abnormal Vibration
+2.101,92.66,7.86,Overheating
+2.308,47.78,20.085,Overcurrent
+1.743,59.47,8.077,Normal
+7.92,53.52,7.817,Abnormal Vibration
+2.183,94.65,9.173,Overheating
+2.121,61.01,15.67,Overcurrent
+2.802,48.37,7.709,Normal
+7.565,59.03,8.164,Abnormal Vibration
+1.774,103.08,8.695,Overheating
+2.606,60.48,14.715,Overcurrent
+2.059,50.12,9.37,Normal
+8.156,55.82,7.283,Abnormal Vibration
+1.846,92.21,10.04,Overheating
+2.111,65.25,14.298,Overcurrent
+2.923,50.16,9.507,Normal
+6.254,55.64,7.721,Abnormal Vibration
+3.03,96.87,7.869,Overheating
+2.778,59.43,17.526,Overcurrent
+2.228,59.42,8.385,Normal
+6.598,52.3,8.951,Abnormal Vibration
+2.19,95.4,9.47,Overheating
+2.347,56.71,15.456,Overcurrent
+2.32,50.24,8.48,Normal
+6.842,59.77,7.423,Abnormal Vibration
+2.017,88.57,7.283,Overheating
+2.204,59.73,14.606,Overcurrent
+2.385,57.11,8.004,Normal
+7.044,55.71,9.217,Abnormal Vibration
+2.141,82.68,11.29,Overheating
+1.227,55.64,18.838,Overcurrent
+2.447,59.35,9.42,Normal
+7.385,49.2,8.755,Abnormal Vibration
+3.241,87.2,9.757,Overheating
+2.936,58.6,17.126,Overcurrent
+2.525,58.44,7.844,Normal
+5.832,54.56,8.387,Abnormal Vibration
+2.283,100.57,9.702,Overheating
+2.273,57.31,16.628,Overcurrent
+2.544,59.52,7.155,Normal
+7.244,60.15,9.491,Abnormal Vibration
+2.075,85.56,7.43,Overheating
+3.158,59.08,15.064,Overcurrent
+1.237,66.4,9.206,Normal
+7.59,61.71,7.585,Abnormal Vibration
+2.721,97.74,9.096,Overheating
+2.249,54.01,15.267,Overcurrent
+2.374,55.61,9.264,Normal
+7.063,55.66,9.669,Abnormal Vibration
+2.455,86.74,10.021,Overheating
+2.247,56.99,15.561,Overcurrent
+2.793,65.83,8.263,Normal
+6.294,49.55,10.215,Abnormal Vibration
+1.763,101.62,9.234,Overheating
+3.244,61.39,14.949,Overcurrent
+2.114,61.62,9.455,Normal
+8.438,49.47,7.934,Abnormal Vibration
+1.944,93.63,11.227,Overheating
+2.883,66.27,15.304,Overcurrent
+1.106,54.13,9.143,Normal
+7.37,63.28,7.394,Abnormal Vibration
+1.216,83.09,9.029,Overheating
+2.592,66.24,15.586,Overcurrent
+3.025,60.25,8.897,Normal
+8.294,51.83,8.363,Abnormal Vibration
+2.242,89.64,8.138,Overheating
+1.993,53.26,15.968,Overcurrent
+2.09,53.77,9.196,Normal
+8.616,59.92,8.998,Abnormal Vibration
+2.364,86.96,8.575,Overheating
+2.611,65.56,19.35,Overcurrent
+2.643,67.0,8.319,Normal
+7.369,58.25,7.774,Abnormal Vibration
+2.084,89.13,8.41,Overheating
+1.946,63.71,13.855,Overcurrent
+1.232,56.55,8.779,Normal
+9.915,49.96,9.061,Abnormal Vibration
+2.619,93.41,8.382,Overheating
+1.59,51.68,17.264,Overcurrent
+2.321,54.93,9.009,Normal
+7.748,53.58,7.282,Abnormal Vibration
+2.745,101.33,9.679,Overheating
+1.466,60.15,17.814,Overcurrent
+2.885,55.36,9.182,Normal
+6.068,55.31,8.691,Abnormal Vibration
+1.793,94.0,9.551,Overheating
+2.936,64.7,15.838,Overcurrent
+1.958,61.7,9.218,Normal
+8.201,62.16,7.179,Abnormal Vibration
+1.029,97.38,7.792,Overheating
+2.321,48.14,15.061,Overcurrent
+2.768,65.34,9.182,Normal
+7.308,54.61,8.917,Abnormal Vibration
+1.682,96.28,8.143,Overheating
+2.438,55.53,12.959,Overcurrent
+2.443,57.53,8.471,Normal
+6.688,55.77,7.536,Abnormal Vibration
+2.035,91.8,7.894,Overheating
+1.562,56.17,14.943,Overcurrent
+2.459,58.77,8.344,Normal
+7.576,62.05,7.322,Abnormal Vibration
+1.856,91.28,8.348,Overheating
+2.35,55.09,15.227,Overcurrent
+1.598,58.65,7.892,Normal
+7.043,59.64,8.902,Abnormal Vibration
+2.06,95.29,8.229,Overheating
+1.655,60.51,16.829,Overcurrent
+2.069,54.61,7.298,Normal
+8.263,55.93,7.203,Abnormal Vibration
+2.692,86.4,6.361,Overheating
+2.275,70.06,15.492,Overcurrent
+2.84,55.77,9.616,Normal
+7.996,57.87,9.382,Abnormal Vibration
+1.527,94.15,7.871,Overheating
+1.617,53.52,15.988,Overcurrent
+2.865,58.95,9.932,Normal
+6.543,63.12,4.965,Abnormal Vibration
+2.422,97.34,7.972,Overheating
+2.223,56.43,15.325,Overcurrent
+2.733,57.78,8.599,Normal
+6.039,54.22,8.278,Abnormal Vibration
+2.493,97.97,8.06,Overheating
+1.7,49.15,13.796,Overcurrent
+1.53,58.73,9.466,Normal
+5.999,53.99,10.006,Abnormal Vibration
+2.607,93.32,7.774,Overheating
+1.787,55.0,14.869,Overcurrent
+1.409,61.21,7.896,Normal
+7.674,57.31,11.313,Abnormal Vibration
+1.554,91.86,7.604,Overheating
+1.407,52.93,13.499,Overcurrent
+2.152,59.05,7.495,Normal
+7.765,58.38,9.593,Abnormal Vibration
+2.098,95.89,8.962,Overheating
+1.387,62.17,17.814,Overcurrent
+2.286,55.08,8.5,Normal
+6.983,54.63,6.79,Abnormal Vibration
+2.805,83.4,9.533,Overheating
+2.086,55.85,14.248,Overcurrent
+2.068,52.67,10.82,Normal
+8.014,55.67,7.26,Abnormal Vibration
+2.48,91.66,8.847,Overheating
+1.851,54.56,17.096,Overcurrent
+1.935,59.28,9.253,Normal
+7.526,62.4,8.92,Abnormal Vibration
+2.188,89.81,7.64,Overheating
+2.32,62.02,16.803,Overcurrent
+2.089,54.48,8.512,Normal
+6.779,54.9,7.906,Abnormal Vibration
+2.288,95.31,8.774,Overheating
+2.299,55.47,14.235,Overcurrent
+1.835,61.6,7.171,Normal
+5.976,55.4,9.15,Abnormal Vibration
+1.917,92.62,10.156,Overheating
+1.951,58.51,12.683,Overcurrent
+1.681,58.98,7.87,Normal
+7.477,54.81,8.657,Abnormal Vibration
+3.141,87.96,7.019,Overheating
+2.667,53.97,17.3,Overcurrent
+1.845,63.02,8.715,Normal
+8.477,62.02,9.316,Abnormal Vibration
+2.001,99.56,9.972,Overheating
+2.323,54.17,13.71,Overcurrent
+1.724,57.07,7.308,Normal
+6.622,46.4,7.699,Abnormal Vibration
+2.492,95.14,7.269,Overheating
+1.699,59.31,16.205,Overcurrent
+2.905,67.18,9.587,Normal
+6.681,55.66,7.567,Abnormal Vibration
+1.361,105.17,9.618,Overheating
+2.409,58.91,13.471,Overcurrent
+1.794,61.62,8.267,Normal
+8.192,61.84,6.593,Abnormal Vibration
+1.81,97.64,8.501,Overheating
+2.676,53.45,16.81,Overcurrent
+2.884,55.62,9.688,Normal
+6.884,56.01,9.501,Abnormal Vibration
+2.638,94.34,8.608,Overheating
+2.687,57.61,16.959,Overcurrent
+1.788,62.16,9.973,Normal
+8.296,59.83,7.648,Abnormal Vibration
+1.464,90.55,10.05,Overheating
+2.459,54.73,13.736,Overcurrent
+2.002,55.13,8.602,Normal
+6.784,64.78,8.81,Abnormal Vibration
+2.915,95.44,8.756,Overheating
+2.964,58.71,16.143,Overcurrent
+2.402,57.88,7.85,Normal
+6.491,50.36,8.981,Abnormal Vibration
+1.892,88.82,9.579,Overheating
+2.031,56.23,14.336,Overcurrent
+1.815,59.89,7.897,Normal
+6.968,57.95,7.584,Abnormal Vibration
+2.816,91.65,8.363,Overheating
+1.47,58.8,18.02,Overcurrent
+3.57,56.67,8.702,Normal
+8.017,66.33,9.492,Abnormal Vibration
+2.486,100.25,5.962,Overheating
+2.521,59.16,17.388,Overcurrent
+2.343,58.9,7.393,Normal
+6.316,57.6,8.394,Abnormal Vibration
+3.033,95.3,8.435,Overheating
+2.907,54.51,13.961,Overcurrent
+2.703,59.92,8.658,Normal
+6.704,66.17,8.39,Abnormal Vibration
+1.922,96.4,9.088,Overheating
+1.889,60.46,16.17,Overcurrent
+2.137,60.13,8.9,Normal
+7.708,56.6,6.785,Abnormal Vibration
+2.147,94.85,6.716,Overheating
+2.485,54.86,16.453,Overcurrent
+2.454,56.95,5.323,Normal
+6.073,58.42,7.769,Abnormal Vibration
+2.451,89.97,10.079,Overheating
+2.769,58.08,16.799,Overcurrent
+2.621,55.64,10.07,Normal
+8.111,52.45,7.361,Abnormal Vibration
+1.935,93.44,8.606,Overheating
+2.67,55.83,12.318,Overcurrent
+2.143,56.81,9.738,Normal
+8.663,62.6,8.211,Abnormal Vibration
+1.733,99.94,9.179,Overheating
+2.605,51.99,15.985,Overcurrent
+1.419,55.49,8.152,Normal
+8.168,63.88,9.037,Abnormal Vibration
+1.778,94.17,8.952,Overheating
+2.614,60.97,17.282,Overcurrent
+2.237,58.92,10.478,Normal
+8.354,53.27,6.918,Abnormal Vibration
+1.991,95.64,8.012,Overheating
+2.001,52.64,12.173,Overcurrent
+1.694,63.51,7.562,Normal
+6.727,63.05,9.814,Abnormal Vibration
+2.541,98.79,6.562,Overheating
+2.253,54.05,16.534,Overcurrent
+2.28,53.64,8.325,Normal
+6.279,61.39,8.284,Abnormal Vibration
+2.404,96.53,7.904,Overheating
+2.703,62.76,16.453,Overcurrent
+2.876,64.09,7.673,Normal
+6.92,59.06,7.815,Abnormal Vibration
+1.236,99.75,9.349,Overheating
+2.847,55.28,18.47,Overcurrent
+2.718,54.68,6.14,Normal
+8.025,53.19,8.563,Abnormal Vibration
+1.505,106.41,7.284,Overheating
+2.225,60.14,12.588,Overcurrent
+1.74,53.69,9.673,Normal
+7.105,61.72,8.921,Abnormal Vibration
+1.007,96.69,9.471,Overheating
+2.272,51.53,16.406,Overcurrent
+1.967,59.95,7.79,Normal
+8.236,55.11,7.81,Abnormal Vibration
+2.545,96.79,7.953,Overheating
+2.917,53.65,17.841,Overcurrent
+2.431,56.03,9.655,Normal
+7.194,53.76,8.775,Abnormal Vibration
+2.993,94.67,8.984,Overheating
+2.45,51.75,16.623,Overcurrent
+2.392,56.18,6.502,Normal
+6.655,60.42,8.627,Abnormal Vibration
+1.754,93.2,8.349,Overheating
+1.958,58.68,14.998,Overcurrent
+2.998,55.35,8.666,Normal
+7.817,53.5,9.42,Abnormal Vibration
+2.303,89.04,8.854,Overheating
+2.714,46.17,14.724,Overcurrent
+2.822,57.11,9.737,Normal
+6.559,60.05,6.862,Abnormal Vibration
+1.96,87.35,8.88,Overheating
+2.577,53.43,16.412,Overcurrent
+2.138,65.06,9.639,Normal
+7.296,52.93,9.65,Abnormal Vibration
+2.502,97.86,9.731,Overheating
+2.578,54.95,13.424,Overcurrent
+2.084,55.14,7.723,Normal
+7.019,48.97,9.738,Abnormal Vibration
+2.115,100.68,9.565,Overheating
+1.993,58.85,17.172,Overcurrent
+2.21,62.09,9.327,Normal
+6.144,60.41,8.587,Abnormal Vibration
+2.358,90.61,8.066,Overheating
+2.497,65.53,12.135,Overcurrent
+1.905,58.45,8.357,Normal
+6.497,55.74,7.853,Abnormal Vibration
+2.373,101.91,6.915,Overheating
+2.412,60.49,16.408,Overcurrent
+1.661,65.13,9.915,Normal
+7.703,52.07,8.194,Abnormal Vibration
+2.011,89.63,8.661,Overheating
+2.841,62.25,14.867,Overcurrent
+2.299,62.99,6.407,Normal
+6.392,64.33,10.312,Abnormal Vibration
+2.333,84.8,9.706,Overheating
+1.235,58.69,15.801,Overcurrent
+2.043,63.75,9.978,Normal
+8.675,58.71,7.343,Abnormal Vibration
+1.526,88.76,7.61,Overheating
+2.813,68.45,15.462,Overcurrent
+2.546,53.92,9.838,Normal
+7.026,59.89,7.809,Abnormal Vibration
+1.423,84.74,9.39,Overheating
+1.715,55.86,15.856,Overcurrent
+2.178,59.28,8.464,Normal
+7.419,59.41,9.703,Abnormal Vibration
+1.349,89.05,8.975,Overheating
+2.237,63.74,16.202,Overcurrent
+2.444,57.26,8.09,Normal
+6.752,62.33,9.117,Abnormal Vibration
+2.904,99.44,7.208,Overheating
+2.281,59.25,13.659,Overcurrent
+2.675,54.55,9.312,Normal
+7.973,51.36,10.411,Abnormal Vibration
+2.138,95.78,7.791,Overheating
+2.766,56.13,13.292,Overcurrent
+3.065,62.52,8.47,Normal
+7.514,64.35,7.995,Abnormal Vibration
+2.049,91.94,9.539,Overheating
+2.423,56.44,15.726,Overcurrent
+1.886,61.3,8.413,Normal
+6.782,61.36,9.722,Abnormal Vibration
+2.519,90.43,8.478,Overheating
+1.972,60.84,14.833,Overcurrent
+2.607,59.61,7.281,Normal
+6.743,63.08,9.596,Abnormal Vibration
+1.667,97.72,9.844,Overheating
+1.099,61.86,19.092,Overcurrent
+2.606,56.22,8.607,Normal
+7.09,55.78,8.964,Abnormal Vibration
+2.08,94.24,6.461,Overheating
+1.531,57.18,20.074,Overcurrent
+1.953,57.38,7.882,Normal
+8.79,55.7,7.845,Abnormal Vibration
+2.575,90.83,10.912,Overheating
+1.81,54.43,15.01,Overcurrent
+2.771,55.17,6.685,Normal
+8.306,59.29,9.692,Abnormal Vibration
+2.376,95.31,5.856,Overheating
+2.218,56.61,17.408,Overcurrent
+2.747,66.84,8.305,Normal
+6.757,66.48,8.18,Abnormal Vibration
+1.534,98.22,9.106,Overheating
+2.307,60.45,16.823,Overcurrent
+2.766,61.84,8.689,Normal
+7.074,61.61,7.923,Abnormal Vibration
+1.856,97.32,7.529,Overheating
+2.525,61.94,16.134,Overcurrent
+2.106,45.77,7.736,Normal
+9.442,54.33,8.635,Abnormal Vibration
+1.735,84.01,8.248,Overheating
+1.783,51.57,15.605,Overcurrent
+1.176,61.65,9.472,Normal
+6.423,62.26,9.087,Abnormal Vibration
+2.335,88.87,7.665,Overheating
+2.396,68.38,16.336,Overcurrent
+1.694,56.83,8.298,Normal
+6.721,55.05,8.451,Abnormal Vibration
+2.796,92.18,7.739,Overheating
+2.408,60.62,15.087,Overcurrent
+2.482,50.63,10.715,Normal
+6.288,56.63,8.35,Abnormal Vibration
+3.065,102.79,8.065,Overheating
+2.695,57.13,15.469,Overcurrent
+2.026,57.01,8.797,Normal
+9.174,66.9,6.327,Abnormal Vibration
+2.692,84.66,8.07,Overheating
+2.773,53.07,15.336,Overcurrent
+1.42,59.88,8.986,Normal
+7.617,61.87,10.305,Abnormal Vibration
+2.407,91.97,7.461,Overheating
+2.233,58.05,19.987,Overcurrent
+2.474,53.61,7.299,Normal
+6.958,53.46,9.079,Abnormal Vibration
+1.867,95.86,9.049,Overheating
+2.194,57.83,13.048,Overcurrent
+1.813,54.45,7.681,Normal
+7.113,55.87,7.195,Abnormal Vibration
+2.361,95.58,9.319,Overheating
+2.387,56.32,17.092,Overcurrent
+1.274,62.81,7.989,Normal
+5.756,47.62,8.066,Abnormal Vibration
+2.129,94.1,8.907,Overheating
+1.599,63.86,15.462,Overcurrent
+1.827,55.29,7.097,Normal
+7.077,61.36,8.572,Abnormal Vibration
+1.739,94.43,7.592,Overheating
+2.389,56.89,16.934,Overcurrent
+2.586,66.89,7.072,Normal
+5.845,52.53,8.302,Abnormal Vibration
+1.945,102.2,9.229,Overheating
+2.61,62.56,15.427,Overcurrent
+2.622,61.86,6.584,Normal
+8.32,53.6,7.64,Abnormal Vibration
+3.067,103.71,8.841,Overheating
+2.415,60.52,16.599,Overcurrent
+2.848,61.27,8.585,Normal
+7.592,59.17,6.837,Abnormal Vibration
+2.261,96.34,7.343,Overheating
+2.288,57.97,14.673,Overcurrent
+1.501,60.04,6.298,Normal
+7.926,67.3,8.871,Abnormal Vibration
+2.981,89.64,10.777,Overheating
+2.036,60.17,15.99,Overcurrent
+2.232,63.84,9.567,Normal
+7.448,61.14,8.561,Abnormal Vibration
+2.565,96.25,7.781,Overheating
+2.164,59.19,15.599,Overcurrent
+1.757,53.9,7.927,Normal
+7.857,57.25,7.902,Abnormal Vibration
+2.277,103.41,10.693,Overheating
+2.366,59.53,18.045,Overcurrent
+2.028,52.49,9.363,Normal
+6.606,60.75,9.043,Abnormal Vibration
+1.955,90.09,8.338,Overheating
+2.068,59.79,18.78,Overcurrent
+2.59,51.29,8.73,Normal
+7.221,72.83,8.029,Abnormal Vibration
+1.549,95.42,8.979,Overheating
+1.68,61.52,18.174,Overcurrent
+2.374,57.77,9.398,Normal
+8.363,46.62,6.782,Abnormal Vibration
+2.839,92.5,7.702,Overheating
+1.583,56.86,14.999,Overcurrent
+1.819,51.95,8.706,Normal
+8.629,60.93,8.191,Abnormal Vibration
+2.484,94.12,7.093,Overheating
+2.346,59.54,16.196,Overcurrent
+1.639,47.17,7.384,Normal
+7.479,61.6,9.642,Abnormal Vibration
+2.309,94.89,6.792,Overheating
+1.889,55.26,15.892,Overcurrent
+2.639,61.6,7.529,Normal
+7.999,57.67,6.489,Abnormal Vibration
+1.889,97.89,7.709,Overheating
+2.799,59.18,14.954,Overcurrent
+2.048,52.96,9.553,Normal
+6.633,55.84,8.538,Abnormal Vibration
+1.572,84.3,7.303,Overheating
+2.342,53.52,11.747,Overcurrent
+2.243,54.89,7.875,Normal
+7.245,57.45,8.799,Abnormal Vibration
+2.431,92.83,8.488,Overheating
+2.54,55.41,16.845,Overcurrent
+1.921,61.27,8.101,Normal
+7.465,54.4,7.425,Abnormal Vibration
+2.106,98.41,9.354,Overheating
+2.253,49.29,12.866,Overcurrent
+1.772,57.28,10.035,Normal
+7.788,51.11,7.785,Abnormal Vibration
+1.417,98.41,9.713,Overheating
+1.908,62.56,14.549,Overcurrent
+1.858,55.18,7.421,Normal
+7.766,62.54,7.06,Abnormal Vibration
+1.699,99.07,8.804,Overheating
+2.188,59.12,18.584,Overcurrent
+2.706,61.38,9.008,Normal
+7.29,61.32,7.822,Abnormal Vibration
+2.397,102.55,7.922,Overheating
+1.654,60.29,17.544,Overcurrent
+1.827,54.5,8.553,Normal
+7.925,64.97,8.682,Abnormal Vibration
+1.722,93.73,10.99,Overheating
+1.662,63.12,13.938,Overcurrent
+1.659,52.68,9.023,Normal
+7.562,54.09,8.128,Abnormal Vibration
+2.627,99.08,8.168,Overheating
+1.822,65.7,16.425,Overcurrent
+1.438,62.38,8.032,Normal
+7.62,54.31,7.894,Abnormal Vibration
+2.405,87.76,10.373,Overheating
+2.337,52.02,16.917,Overcurrent
+2.265,60.28,9.085,Normal
+8.686,51.77,9.377,Abnormal Vibration
+2.739,95.24,10.466,Overheating
+2.763,61.07,13.452,Overcurrent
+1.819,60.36,8.261,Normal
+7.463,64.77,7.939,Abnormal Vibration
+2.381,84.69,6.186,Overheating
+2.076,67.9,15.962,Overcurrent
+3.197,58.17,9.009,Normal
+6.773,54.23,7.642,Abnormal Vibration
+2.196,95.3,8.006,Overheating
+2.776,68.62,16.455,Overcurrent
+1.728,55.21,6.78,Normal
+6.304,56.08,9.46,Abnormal Vibration
+1.074,88.83,6.884,Overheating
+2.777,58.4,18.136,Overcurrent
+2.064,61.6,7.263,Normal
+6.589,55.5,8.679,Abnormal Vibration
+1.81,92.78,9.417,Overheating
+2.293,55.88,13.656,Overcurrent
+1.395,64.36,6.339,Normal
+7.475,57.93,8.935,Abnormal Vibration
+1.884,100.1,10.537,Overheating
+1.858,63.58,15.651,Overcurrent
+2.27,63.6,7.115,Normal
+8.048,56.15,6.862,Abnormal Vibration
+2.0,85.57,9.297,Overheating
+2.019,52.93,17.742,Overcurrent
+2.505,51.21,8.275,Normal
+6.171,64.1,8.961,Abnormal Vibration
+1.58,91.0,9.264,Overheating
+1.899,60.29,11.792,Overcurrent
+2.07,61.71,7.016,Normal
+6.481,52.38,8.732,Abnormal Vibration
+1.425,101.61,8.398,Overheating
+2.599,50.85,17.57,Overcurrent
+2.607,66.37,10.453,Normal
+8.286,59.75,10.901,Abnormal Vibration
+1.878,97.28,6.944,Overheating
+2.148,57.18,14.623,Overcurrent
+2.496,57.88,8.931,Normal
+8.11,66.05,9.679,Abnormal Vibration
+1.21,96.15,7.066,Overheating
+2.758,62.82,18.964,Overcurrent
+2.279,54.37,7.972,Normal
+7.893,61.77,7.437,Abnormal Vibration
+2.188,91.64,7.566,Overheating
+2.347,57.12,13.421,Overcurrent
+1.495,53.33,9.609,Normal
+7.758,58.17,9.092,Abnormal Vibration
+1.944,86.36,8.141,Overheating
+2.168,54.55,16.314,Overcurrent
+2.025,60.86,11.337,Normal
+6.049,68.92,7.527,Abnormal Vibration
+1.739,90.9,8.716,Overheating
+1.922,54.58,18.008,Overcurrent
+2.077,54.94,8.124,Normal
+6.886,57.76,8.883,Abnormal Vibration
+1.958,95.94,8.813,Overheating
+2.441,58.64,13.809,Overcurrent
+2.185,47.73,8.08,Normal
+7.136,52.22,7.397,Abnormal Vibration
+2.614,102.49,7.956,Overheating
+2.172,63.12,14.427,Overcurrent
+1.482,60.41,8.686,Normal
+8.527,59.21,8.4,Abnormal Vibration
+0.755,93.36,8.759,Overheating
+1.732,63.55,16.173,Overcurrent
+2.746,50.55,8.816,Normal
+7.698,59.92,8.035,Abnormal Vibration
+2.699,88.32,10.583,Overheating
+1.874,63.41,14.501,Overcurrent
+1.986,64.82,9.294,Normal
+7.409,49.57,9.992,Abnormal Vibration
+1.997,87.39,6.428,Overheating
+2.344,55.78,17.47,Overcurrent
+1.916,53.83,9.79,Normal
+6.04,69.9,8.596,Abnormal Vibration
+1.22,92.76,9.945,Overheating
+1.0,55.19,18.192,Overcurrent
+2.408,57.33,8.803,Normal
+7.782,62.77,7.759,Abnormal Vibration
+2.743,92.38,8.787,Overheating
+2.372,55.85,14.712,Overcurrent
+2.211,51.44,9.344,Normal
+6.724,50.57,9.247,Abnormal Vibration
+2.878,96.96,9.587,Overheating
+1.699,48.65,13.964,Overcurrent
+2.291,51.3,9.281,Normal
+7.56,52.24,7.535,Abnormal Vibration
+2.625,94.81,7.806,Overheating
+2.091,55.59,16.066,Overcurrent
+1.807,57.42,6.486,Normal
+8.475,55.47,8.58,Abnormal Vibration
+2.946,93.56,7.479,Overheating
+2.344,59.21,17.313,Overcurrent
+2.516,63.49,9.323,Normal
+7.551,56.57,8.487,Abnormal Vibration
+1.964,91.33,8.168,Overheating
+2.398,62.09,17.636,Overcurrent
+2.012,63.72,7.07,Normal
+8.884,55.48,7.949,Abnormal Vibration
+1.998,93.87,9.091,Overheating
+1.547,59.48,15.831,Overcurrent
+2.189,60.05,8.911,Normal
+5.578,58.99,10.264,Abnormal Vibration
+1.755,84.85,6.514,Overheating
+1.739,63.17,14.508,Overcurrent
+2.119,60.2,8.985,Normal
+7.568,69.89,8.765,Abnormal Vibration
+1.945,87.55,7.336,Overheating
+2.464,58.73,15.439,Overcurrent
+2.708,57.07,8.534,Normal
+5.106,60.24,7.744,Abnormal Vibration
+1.264,92.29,7.923,Overheating
+1.376,54.4,16.063,Overcurrent
+1.682,52.8,10.427,Normal
+6.536,57.51,7.158,Abnormal Vibration
+2.067,88.22,8.591,Overheating
+1.843,54.41,13.475,Overcurrent
+2.258,53.36,8.315,Normal
+6.649,59.49,9.312,Abnormal Vibration
+1.647,92.27,9.356,Overheating
+2.168,57.13,17.016,Overcurrent
+2.006,60.72,8.914,Normal
+7.882,54.75,9.65,Abnormal Vibration
+1.613,90.95,9.112,Overheating
+1.019,61.36,15.724,Overcurrent
+1.348,60.67,6.664,Normal
+5.939,55.46,8.493,Abnormal Vibration
+2.421,92.58,8.137,Overheating
+0.879,65.22,17.035,Overcurrent
+2.288,58.25,9.189,Normal
+7.371,62.59,10.075,Abnormal Vibration
+2.125,92.13,8.913,Overheating
+2.036,58.56,15.194,Overcurrent
+2.579,66.83,9.093,Normal
+6.248,60.56,8.058,Abnormal Vibration
+1.836,91.61,9.461,Overheating
+1.312,60.3,16.486,Overcurrent
+1.556,52.97,10.262,Normal
+6.022,60.05,8.623,Abnormal Vibration
+1.492,92.59,8.19,Overheating
+2.7,50.7,17.874,Overcurrent
+2.605,56.76,8.969,Normal
+7.935,54.06,7.022,Abnormal Vibration
+2.226,98.98,7.856,Overheating
+2.598,60.22,14.487,Overcurrent
+2.06,55.78,8.523,Normal
+6.454,59.11,10.282,Abnormal Vibration
+2.455,95.31,9.001,Overheating
+1.763,60.48,18.893,Overcurrent
+2.254,59.78,8.354,Normal
+7.46,69.71,8.683,Abnormal Vibration
+2.241,85.62,7.14,Overheating
+2.834,60.26,13.711,Overcurrent
+1.801,57.53,7.266,Normal
+7.115,54.38,8.218,Abnormal Vibration
+1.15,82.92,8.54,Overheating
+2.012,56.5,16.558,Overcurrent
+2.778,59.56,7.089,Normal
+6.351,49.1,8.701,Abnormal Vibration
+2.332,95.04,9.378,Overheating
+2.077,50.7,19.534,Overcurrent
+2.155,59.94,7.35,Normal
+8.694,58.12,7.91,Abnormal Vibration
+2.349,95.22,8.092,Overheating
+1.436,60.17,17.438,Overcurrent
+2.371,55.06,7.83,Normal
+7.705,59.93,9.096,Abnormal Vibration
+2.157,93.03,10.299,Overheating
+2.818,57.6,14.614,Overcurrent
+1.568,56.74,8.018,Normal
+6.57,59.55,6.954,Abnormal Vibration
+1.529,90.9,8.407,Overheating
+2.76,59.88,18.06,Overcurrent
+2.637,58.88,8.136,Normal
+7.337,61.59,7.425,Abnormal Vibration
+1.8,90.82,7.471,Overheating
+1.904,60.16,16.012,Overcurrent
+1.168,61.83,5.814,Normal
+8.135,59.12,8.001,Abnormal Vibration
+2.742,95.64,9.634,Overheating
+2.018,59.19,15.915,Overcurrent
+1.048,50.45,10.302,Normal
+7.962,55.25,9.445,Abnormal Vibration
+2.468,105.09,6.378,Overheating
+2.018,62.9,15.144,Overcurrent
+2.072,57.24,10.151,Normal
+6.767,59.79,10.306,Abnormal Vibration
+2.217,88.33,10.146,Overheating
+2.51,49.15,16.356,Overcurrent
+1.665,56.85,7.16,Normal
+7.426,52.68,7.439,Abnormal Vibration
+1.286,101.98,7.684,Overheating
+1.948,54.03,17.596,Overcurrent
+1.031,55.11,9.758,Normal
+6.906,52.51,6.909,Abnormal Vibration
+1.597,91.62,6.998,Overheating
+2.108,55.26,14.459,Overcurrent
+1.773,63.53,8.924,Normal
+6.94,62.75,8.904,Abnormal Vibration
+2.478,95.05,10.246,Overheating
+2.222,65.03,14.875,Overcurrent
+2.43,52.24,8.253,Normal
+6.388,58.63,8.335,Abnormal Vibration
+2.392,93.89,7.825,Overheating
+2.437,60.22,16.759,Overcurrent
+2.49,61.26,8.957,Normal
+6.703,59.51,7.833,Abnormal Vibration
+2.364,96.8,7.823,Overheating
+1.837,60.07,18.115,Overcurrent
+2.434,60.09,8.518,Normal
+6.885,50.49,8.574,Abnormal Vibration
+2.357,89.2,8.916,Overheating
+2.504,55.26,16.956,Overcurrent
+1.951,64.57,8.159,Normal
+6.493,63.72,8.687,Abnormal Vibration
+2.033,91.46,8.056,Overheating
+2.655,57.13,15.743,Overcurrent
+1.71,56.9,9.431,Normal
+7.536,63.03,8.507,Abnormal Vibration
+1.852,99.24,8.494,Overheating
+1.977,50.97,14.914,Overcurrent
+2.505,53.97,7.52,Normal
+6.109,57.91,8.413,Abnormal Vibration
+2.049,95.91,8.893,Overheating
+1.836,56.73,16.911,Overcurrent
+2.605,56.96,8.121,Normal
+6.589,57.46,10.167,Abnormal Vibration
+2.306,87.45,8.403,Overheating
+2.362,64.87,15.938,Overcurrent
+2.176,48.42,8.816,Normal
+6.39,53.89,9.733,Abnormal Vibration
+2.247,86.96,8.836,Overheating
+2.306,58.53,13.923,Overcurrent
+1.99,54.29,9.22,Normal
+7.348,56.24,8.986,Abnormal Vibration
+1.463,98.99,8.559,Overheating
+1.997,58.16,15.299,Overcurrent
+3.262,56.78,8.838,Normal
+6.592,55.5,8.353,Abnormal Vibration
+1.744,104.64,8.084,Overheating
+2.112,55.03,18.8,Overcurrent
+1.43,63.52,7.441,Normal
+6.021,51.74,8.031,Abnormal Vibration
+1.908,95.27,8.354,Overheating
+2.327,57.65,16.269,Overcurrent
+2.779,58.59,7.861,Normal
+6.218,45.43,8.067,Abnormal Vibration
+2.189,97.36,6.241,Overheating
+1.473,49.66,17.211,Overcurrent
+0.773,64.04,8.273,Normal
+7.3,53.83,8.697,Abnormal Vibration
+1.206,89.22,9.297,Overheating
+2.452,60.96,17.815,Overcurrent
+2.507,65.27,8.76,Normal
+7.491,57.35,9.177,Abnormal Vibration
+2.412,92.4,8.183,Overheating
+1.335,59.03,14.767,Overcurrent
+2.016,60.95,9.075,Normal
+6.442,57.19,8.782,Abnormal Vibration
+2.938,87.79,7.899,Overheating
+1.643,53.82,16.486,Overcurrent
+2.287,61.82,8.68,Normal
+8.569,56.65,10.06,Abnormal Vibration
+1.82,92.69,8.241,Overheating
+1.93,52.83,17.506,Overcurrent
+2.861,62.26,8.643,Normal
+6.071,57.65,8.377,Abnormal Vibration
+2.77,87.71,7.548,Overheating
+3.156,59.02,15.506,Overcurrent
+2.477,62.84,9.309,Normal
+8.24,61.27,8.953,Abnormal Vibration
+1.96,97.82,7.088,Overheating
+1.863,59.15,15.459,Overcurrent
+2.006,62.46,10.122,Normal
+7.277,54.49,10.429,Abnormal Vibration
+1.932,93.57,9.355,Overheating
+2.245,52.2,17.781,Overcurrent
+2.401,62.54,6.798,Normal
+8.969,59.4,9.171,Abnormal Vibration
+2.296,87.3,7.74,Overheating
+2.845,57.31,17.835,Overcurrent
+2.846,56.57,7.981,Normal
+7.777,50.38,9.0,Abnormal Vibration
+2.289,94.86,8.517,Overheating
+2.866,58.51,17.373,Overcurrent
+2.074,57.81,7.823,Normal
+7.453,70.49,8.245,Abnormal Vibration
+2.433,97.18,8.334,Overheating
+1.498,54.07,16.107,Overcurrent
+2.296,60.64,9.697,Normal
+7.277,54.94,9.574,Abnormal Vibration
+2.29,101.46,6.666,Overheating
+2.295,52.26,18.877,Overcurrent
+2.923,56.87,9.197,Normal
+6.356,51.84,11.063,Abnormal Vibration
+3.192,92.73,8.765,Overheating
+2.871,66.05,14.997,Overcurrent
+1.865,61.02,6.274,Normal
+6.79,58.05,8.807,Abnormal Vibration
+1.993,93.22,8.11,Overheating
+2.34,60.58,18.504,Overcurrent
+1.186,60.32,8.05,Normal
+6.934,60.48,8.311,Abnormal Vibration
+1.4,89.29,7.769,Overheating
+1.664,58.04,17.393,Overcurrent
+1.94,51.29,7.71,Normal
+6.999,49.76,9.814,Abnormal Vibration
+2.134,97.28,9.161,Overheating
+1.835,54.75,12.624,Overcurrent
+1.713,54.0,9.399,Normal
+7.47,59.41,7.625,Abnormal Vibration
+1.736,90.37,7.737,Overheating
+1.718,58.93,14.684,Overcurrent
+1.977,59.91,8.646,Normal
+7.76,56.82,8.821,Abnormal Vibration
+1.719,96.04,7.122,Overheating
+2.103,59.13,16.325,Overcurrent
+2.502,56.18,9.246,Normal
+8.514,51.74,8.261,Abnormal Vibration
+3.923,85.8,8.525,Overheating
+2.254,57.69,18.832,Overcurrent
+2.301,53.52,7.407,Normal
+5.766,55.15,7.564,Abnormal Vibration
+2.136,95.2,9.312,Overheating
+2.99,52.65,16.604,Overcurrent
+1.412,57.14,7.404,Normal
+8.548,54.23,9.153,Abnormal Vibration
+2.094,95.98,7.284,Overheating
+1.755,62.18,18.767,Overcurrent
+3.074,58.5,8.96,Normal
+5.988,52.02,9.24,Abnormal Vibration
+2.676,102.68,8.292,Overheating
+2.323,60.29,17.37,Overcurrent
+2.074,53.81,7.51,Normal
+7.129,52.33,9.171,Abnormal Vibration
+1.741,96.22,8.681,Overheating
+1.723,55.91,15.565,Overcurrent
+2.683,61.48,9.998,Normal
+9.178,55.11,8.546,Abnormal Vibration
+2.721,92.98,9.212,Overheating
+2.046,63.09,17.496,Overcurrent
+3.039,55.77,8.811,Normal
+7.244,61.58,8.126,Abnormal Vibration
+3.124,96.47,8.965,Overheating
+1.513,60.92,16.344,Overcurrent
+2.793,55.77,6.981,Normal
+7.393,57.91,8.621,Abnormal Vibration
+2.336,83.16,9.574,Overheating
+2.03,61.63,13.678,Overcurrent
+1.839,55.81,10.505,Normal
+6.506,59.89,8.299,Abnormal Vibration
+1.537,97.37,8.843,Overheating
+2.831,53.7,16.921,Overcurrent
+2.453,63.33,6.606,Normal
+7.022,58.59,10.518,Abnormal Vibration
+2.868,91.43,10.651,Overheating
+1.472,59.07,18.028,Overcurrent
+2.171,59.79,8.488,Normal
+8.027,62.71,7.997,Abnormal Vibration
+2.19,94.46,8.121,Overheating
+1.927,50.96,17.799,Overcurrent
+2.498,54.44,8.992,Normal
+7.192,61.47,8.057,Abnormal Vibration
+1.647,94.59,9.024,Overheating
+3.374,63.31,16.532,Overcurrent
+1.954,60.06,8.552,Normal
+7.416,63.35,8.189,Abnormal Vibration
+2.262,97.87,9.037,Overheating
+2.226,59.17,15.005,Overcurrent
+1.9,49.91,9.04,Normal
+6.636,55.99,6.415,Abnormal Vibration
+2.461,95.2,8.531,Overheating
+1.389,61.93,16.05,Overcurrent
+2.41,46.05,9.923,Normal
+6.676,60.51,8.156,Abnormal Vibration
+2.833,91.35,8.794,Overheating
+2.448,62.05,16.892,Overcurrent
+1.912,56.89,8.833,Normal
+7.38,60.12,8.31,Abnormal Vibration
+2.639,91.99,9.4,Overheating
+2.636,56.39,16.922,Overcurrent
+1.562,56.86,8.774,Normal
+5.787,61.74,6.177,Abnormal Vibration
+2.677,93.42,10.446,Overheating
+2.775,68.02,13.348,Overcurrent
+1.961,51.61,10.015,Normal
+7.755,54.85,9.736,Abnormal Vibration
+1.92,90.51,7.579,Overheating
+2.766,54.2,15.262,Overcurrent
+1.93,46.55,6.941,Normal
+6.759,64.19,9.185,Abnormal Vibration
+2.139,92.8,8.243,Overheating
+1.916,60.68,16.882,Overcurrent
+3.257,60.41,6.529,Normal
+6.985,57.73,7.609,Abnormal Vibration
+2.879,101.15,7.29,Overheating
+2.103,57.76,16.821,Overcurrent
+1.847,58.27,9.744,Normal
+8.496,54.32,8.516,Abnormal Vibration
+2.075,96.99,7.852,Overheating
+2.151,58.18,15.555,Overcurrent
+2.441,63.97,8.926,Normal
+8.162,63.06,9.231,Abnormal Vibration
+1.229,93.32,8.902,Overheating
+1.79,57.4,16.54,Overcurrent
+2.525,56.92,9.564,Normal
+6.86,55.3,8.58,Abnormal Vibration
+2.677,98.69,9.033,Overheating
+1.418,57.76,13.045,Overcurrent
+2.226,57.13,7.058,Normal
+6.795,58.56,6.247,Abnormal Vibration
+2.044,88.65,7.737,Overheating
+2.319,53.65,16.78,Overcurrent
+2.314,55.44,8.611,Normal
+7.194,58.67,6.892,Abnormal Vibration
+1.107,89.14,10.97,Overheating
+1.811,61.73,14.349,Overcurrent
+2.086,58.69,9.369,Normal
+6.599,55.29,8.237,Abnormal Vibration
+2.344,88.22,7.669,Overheating
+2.166,55.38,13.868,Overcurrent
+1.309,57.7,7.758,Normal
+6.264,59.77,7.478,Abnormal Vibration
+1.976,99.5,8.422,Overheating
+2.046,54.87,13.641,Overcurrent
+2.241,57.4,8.689,Normal
+5.633,61.93,7.998,Abnormal Vibration
+1.668,85.67,8.425,Overheating
+2.62,57.93,18.297,Overcurrent
+2.058,55.14,9.076,Normal
+6.837,62.85,8.44,Abnormal Vibration
+1.655,96.3,8.19,Overheating
+2.191,47.62,16.821,Overcurrent
+3.081,57.33,8.881,Normal
+6.42,56.18,7.349,Abnormal Vibration
+1.556,93.05,9.351,Overheating
+1.894,62.54,13.204,Overcurrent
+2.469,58.62,8.821,Normal
+9.03,64.93,8.373,Abnormal Vibration
+1.634,86.91,7.071,Overheating
+2.401,61.24,16.895,Overcurrent
+1.851,63.0,7.02,Normal
+7.201,59.29,8.71,Abnormal Vibration
+2.142,98.99,7.033,Overheating
+2.534,64.11,18.699,Overcurrent
+2.133,62.64,8.032,Normal
+8.496,62.07,7.054,Abnormal Vibration
+3.084,91.32,9.879,Overheating
+2.081,59.07,17.126,Overcurrent
+2.629,60.93,7.987,Normal
+5.826,59.88,8.146,Abnormal Vibration
+1.622,95.91,10.024,Overheating
+1.778,53.14,14.368,Overcurrent
+2.277,63.01,11.207,Normal
+7.284,55.83,9.44,Abnormal Vibration
+3.036,98.82,8.005,Overheating
+1.82,55.17,15.572,Overcurrent
+1.201,62.56,11.17,Normal
+7.13,64.09,6.802,Abnormal Vibration
+1.802,87.54,9.023,Overheating
+2.121,61.32,17.983,Overcurrent
+2.817,55.87,9.918,Normal
+8.004,55.23,9.035,Abnormal Vibration
+2.729,97.44,8.539,Overheating
+2.214,51.39,16.911,Overcurrent
+2.139,55.4,10.447,Normal
+7.154,58.32,7.798,Abnormal Vibration
+2.745,98.07,8.192,Overheating
+2.647,57.7,14.84,Overcurrent
+1.291,64.98,7.791,Normal
+8.143,54.18,7.362,Abnormal Vibration
+2.159,89.0,7.694,Overheating
+2.74,51.57,16.782,Overcurrent
+2.377,59.02,8.361,Normal
+6.077,57.92,8.003,Abnormal Vibration
+2.895,95.79,8.127,Overheating
+2.202,49.5,17.393,Overcurrent
+2.147,53.51,9.631,Normal
+6.841,52.78,7.931,Abnormal Vibration
+1.728,94.68,7.958,Overheating
+3.056,54.99,16.002,Overcurrent
+1.983,56.5,7.588,Normal
+6.264,56.23,7.207,Abnormal Vibration
+3.563,92.46,10.877,Overheating
+1.673,60.5,15.558,Overcurrent
+1.753,62.02,8.394,Normal
+5.659,55.27,8.302,Abnormal Vibration
+2.152,91.65,8.917,Overheating
+1.723,58.35,15.77,Overcurrent
+3.055,46.74,7.634,Normal
+7.241,52.0,5.762,Abnormal Vibration
+1.722,92.91,8.358,Overheating
+1.902,60.79,17.819,Overcurrent
+2.788,50.88,7.625,Normal
+7.334,52.27,7.923,Abnormal Vibration
+2.681,96.7,8.357,Overheating
+2.359,65.33,15.784,Overcurrent
+2.105,52.17,7.199,Normal
+5.736,64.62,10.461,Abnormal Vibration
+2.607,97.11,8.298,Overheating
+2.151,69.93,14.739,Overcurrent
+1.679,64.21,8.234,Normal
+8.183,58.67,8.567,Abnormal Vibration
+1.747,90.03,7.944,Overheating
+1.894,50.51,13.671,Overcurrent
+2.66,53.1,8.27,Normal
+8.055,56.47,8.874,Abnormal Vibration
+2.476,100.45,7.458,Overheating
+2.29,54.77,15.917,Overcurrent
+1.347,60.17,9.545,Normal
+7.031,54.22,8.088,Abnormal Vibration
+3.168,90.93,8.679,Overheating
+2.237,57.17,15.316,Overcurrent
+2.412,53.18,7.184,Normal
+8.211,56.2,6.779,Abnormal Vibration
+2.764,96.85,8.043,Overheating
+2.788,60.44,16.256,Overcurrent
+1.966,60.11,8.992,Normal
+7.018,62.91,8.659,Abnormal Vibration
+2.766,98.74,7.679,Overheating
+1.176,63.04,16.001,Overcurrent
+2.748,56.19,8.8,Normal
+6.85,52.45,8.945,Abnormal Vibration
+1.651,90.67,8.418,Overheating
+2.122,64.77,16.084,Overcurrent
+2.509,55.39,10.299,Normal
+7.984,56.38,8.7,Abnormal Vibration
+2.663,95.73,9.185,Overheating
+1.435,64.58,16.392,Overcurrent
+2.187,62.74,8.077,Normal
+8.513,64.6,9.197,Abnormal Vibration
+2.178,88.9,9.403,Overheating
+1.457,54.29,18.85,Overcurrent
+3.433,57.06,8.593,Normal
+7.489,56.9,8.842,Abnormal Vibration
+2.031,90.34,7.896,Overheating
+2.008,61.11,15.16,Overcurrent
+2.666,58.27,9.457,Normal
+7.817,66.11,9.897,Abnormal Vibration
+2.892,87.88,10.24,Overheating
+2.238,55.24,13.926,Overcurrent
+1.991,60.19,8.13,Normal
+8.355,56.53,7.574,Abnormal Vibration
+2.779,88.55,6.887,Overheating
+1.952,58.34,16.115,Overcurrent
+2.34,59.94,7.32,Normal
+8.516,64.84,9.024,Abnormal Vibration
+2.08,93.15,9.87,Overheating
+1.906,66.02,14.715,Overcurrent
+2.195,48.36,9.545,Normal
+8.779,52.4,7.829,Abnormal Vibration
+2.664,96.01,8.333,Overheating
+2.882,61.49,15.674,Overcurrent
+2.941,60.62,7.402,Normal
+6.3,66.11,6.683,Abnormal Vibration
+2.463,76.48,7.365,Overheating
+2.041,63.31,14.165,Overcurrent
+2.572,64.31,7.621,Normal
+6.564,51.17,8.498,Abnormal Vibration
+2.118,84.77,9.417,Overheating
+1.552,56.92,13.416,Overcurrent
+1.747,49.72,7.794,Normal
+5.11,65.67,9.37,Abnormal Vibration
+2.098,92.29,8.956,Overheating
+2.368,60.93,13.353,Overcurrent
+2.001,60.8,9.069,Normal
+6.101,61.0,8.402,Abnormal Vibration
+2.283,91.07,9.81,Overheating
+2.259,56.93,16.51,Overcurrent
+1.751,58.31,7.832,Normal
+7.621,57.72,8.581,Abnormal Vibration
+2.004,91.9,8.866,Overheating
+2.21,55.41,17.317,Overcurrent
+2.59,61.68,9.713,Normal
+8.056,62.46,8.178,Abnormal Vibration
+2.562,97.39,9.334,Overheating
+2.352,55.74,17.357,Overcurrent
+1.585,65.04,8.706,Normal
+7.13,62.36,8.751,Abnormal Vibration
+1.168,86.67,9.063,Overheating
+2.292,57.53,13.271,Overcurrent
+1.933,57.11,7.636,Normal
+7.177,48.74,6.232,Abnormal Vibration
+2.463,95.52,8.869,Overheating
+2.477,58.35,16.0,Overcurrent
+2.261,64.75,7.002,Normal
+6.959,57.62,7.436,Abnormal Vibration
+2.737,97.44,7.747,Overheating
+2.67,58.03,19.379,Overcurrent
+1.038,58.14,10.353,Normal
+5.972,64.68,9.072,Abnormal Vibration
+1.897,93.69,9.836,Overheating
+1.97,55.57,16.331,Overcurrent
+3.302,57.38,7.261,Normal
+6.593,59.22,8.675,Abnormal Vibration
+2.426,91.06,7.961,Overheating
+2.67,51.55,15.576,Overcurrent
+2.558,57.2,9.413,Normal
+7.272,59.95,8.776,Abnormal Vibration
+2.951,99.49,8.767,Overheating
+2.386,56.87,19.573,Overcurrent
+1.932,60.9,8.636,Normal
+6.517,49.51,7.864,Abnormal Vibration
+2.889,89.26,9.829,Overheating
+2.117,56.19,13.506,Overcurrent
+2.868,63.06,9.704,Normal
+6.55,62.1,9.741,Abnormal Vibration
+2.474,93.11,8.852,Overheating
+1.779,56.81,11.221,Overcurrent
+2.428,64.86,9.128,Normal
+8.393,54.74,8.262,Abnormal Vibration
+1.544,98.31,6.998,Overheating
+1.879,55.98,17.519,Overcurrent
+2.406,62.84,8.005,Normal
+6.778,58.83,8.327,Abnormal Vibration
+2.795,86.6,8.924,Overheating
+2.172,53.48,13.035,Overcurrent
+2.484,57.52,8.505,Normal
+7.127,58.84,7.505,Abnormal Vibration
+2.503,90.62,9.092,Overheating
+1.268,59.25,15.488,Overcurrent
+1.635,56.95,9.166,Normal
+7.428,52.49,8.645,Abnormal Vibration
+2.21,102.32,9.739,Overheating
+2.542,56.42,13.78,Overcurrent
+2.206,66.38,8.448,Normal
+6.959,54.47,9.616,Abnormal Vibration
+2.347,93.11,7.287,Overheating
+1.716,54.95,18.755,Overcurrent
+2.511,59.42,7.871,Normal
+7.013,57.39,9.722,Abnormal Vibration
+3.026,91.67,8.59,Overheating
+2.187,53.59,13.34,Overcurrent
+1.796,53.75,8.788,Normal
+7.704,57.3,9.811,Abnormal Vibration
+1.45,93.29,9.102,Overheating
+1.745,59.63,16.427,Overcurrent
+2.479,59.89,8.008,Normal
+7.06,58.43,8.376,Abnormal Vibration
+2.356,98.22,7.423,Overheating
+2.368,58.74,19.503,Overcurrent
+2.417,57.62,6.912,Normal
+7.075,60.18,7.229,Abnormal Vibration
+2.268,93.08,6.995,Overheating
+2.087,58.02,17.404,Overcurrent
+2.727,69.68,8.721,Normal
+6.43,57.44,8.421,Abnormal Vibration
+2.115,94.79,7.223,Overheating
+1.931,58.92,16.807,Overcurrent
+2.892,60.38,8.143,Normal
+6.905,58.95,8.085,Abnormal Vibration
+2.75,94.94,8.027,Overheating
+2.145,55.72,15.359,Overcurrent
+1.915,61.21,7.821,Normal
+7.536,52.43,8.964,Abnormal Vibration
+2.371,92.71,9.404,Overheating
+2.02,56.5,14.334,Overcurrent
+2.718,54.26,9.037,Normal
+7.94,52.5,7.616,Abnormal Vibration
+2.777,92.64,10.249,Overheating
+2.383,63.73,18.664,Overcurrent
+1.842,57.57,8.113,Normal
+8.198,58.14,9.369,Abnormal Vibration
+1.996,85.37,8.186,Overheating
+2.022,58.23,14.096,Overcurrent
+2.163,59.93,9.133,Normal
+6.04,55.04,9.08,Abnormal Vibration
+2.54,89.49,9.414,Overheating
+2.948,56.08,14.364,Overcurrent
+2.475,52.58,8.24,Normal
+6.767,54.0,7.586,Abnormal Vibration
+1.548,86.21,8.483,Overheating
+2.203,58.34,15.989,Overcurrent
+1.073,53.94,8.808,Normal
+8.252,52.89,10.077,Abnormal Vibration
+1.541,102.08,9.036,Overheating
+1.178,60.86,16.255,Overcurrent
+2.056,65.46,10.448,Normal
+7.563,53.8,11.053,Abnormal Vibration
+1.683,92.33,8.296,Overheating
+2.707,50.24,16.288,Overcurrent
+2.369,58.86,6.837,Normal
+7.143,59.68,9.013,Abnormal Vibration
+1.404,90.15,7.7,Overheating
+2.43,59.36,15.787,Overcurrent
+2.472,58.84,8.326,Normal
+7.31,52.68,10.387,Abnormal Vibration
+1.782,90.86,6.727,Overheating
+2.695,55.42,14.375,Overcurrent
+2.913,68.09,5.764,Normal
+6.762,60.19,8.988,Abnormal Vibration
+1.971,85.06,10.014,Overheating
+1.865,60.05,15.113,Overcurrent
+2.834,59.26,7.969,Normal
+7.583,51.87,8.663,Abnormal Vibration
+2.776,93.02,8.636,Overheating
+2.08,63.51,16.861,Overcurrent
+2.217,54.13,7.148,Normal
+8.285,61.49,8.66,Abnormal Vibration
+2.11,98.17,7.811,Overheating
+2.318,58.55,15.19,Overcurrent
+2.506,55.62,8.893,Normal
+6.983,50.76,10.037,Abnormal Vibration
+2.602,91.7,8.475,Overheating
+2.297,55.6,15.182,Overcurrent
+1.396,53.46,8.357,Normal
+8.327,48.89,8.978,Abnormal Vibration
+2.623,89.16,7.294,Overheating
+1.523,64.14,13.429,Overcurrent
+2.121,51.97,6.621,Normal
+7.881,64.63,7.998,Abnormal Vibration
+2.515,88.53,9.834,Overheating
+1.95,60.0,15.596,Overcurrent
+2.588,63.17,6.693,Normal
+5.058,63.68,10.079,Abnormal Vibration
+1.831,97.6,8.081,Overheating
+2.432,60.44,15.714,Overcurrent
+2.648,60.39,8.834,Normal
+7.309,54.56,7.742,Abnormal Vibration
+2.697,95.99,8.827,Overheating
+2.076,57.46,14.746,Overcurrent
+2.867,50.14,9.159,Normal
+6.297,64.22,6.46,Abnormal Vibration
+2.718,99.37,8.471,Overheating
+1.688,53.3,15.933,Overcurrent
+1.841,58.25,8.386,Normal
+7.919,55.03,9.051,Abnormal Vibration
+2.627,94.52,8.069,Overheating
+1.527,59.37,14.95,Overcurrent
+2.868,61.75,10.464,Normal
+6.847,58.34,7.837,Abnormal Vibration
+2.569,92.32,8.474,Overheating
+1.678,57.78,17.006,Overcurrent
+2.649,55.48,7.822,Normal
+8.563,59.19,6.786,Abnormal Vibration
+1.872,94.28,8.171,Overheating
+3.001,49.8,14.84,Overcurrent
+2.068,56.58,9.424,Normal
+7.916,55.88,10.006,Abnormal Vibration
+1.776,95.07,7.822,Overheating
+2.015,61.36,16.019,Overcurrent
+1.912,55.26,9.346,Normal
+8.312,59.05,9.322,Abnormal Vibration
+1.749,94.45,8.392,Overheating
+2.334,52.06,17.116,Overcurrent
+1.884,55.34,10.856,Normal
+7.003,57.67,6.868,Abnormal Vibration
+2.451,95.62,8.645,Overheating
+2.022,62.51,15.864,Overcurrent
+2.195,49.9,9.078,Normal
+7.127,61.49,8.945,Abnormal Vibration
+2.461,97.02,7.398,Overheating
+2.435,61.79,19.222,Overcurrent
+2.82,56.96,10.326,Normal
+5.49,67.54,8.716,Abnormal Vibration
+2.187,89.06,7.126,Overheating
+2.335,54.63,13.306,Overcurrent
+2.081,60.12,8.906,Normal
+6.603,59.22,7.465,Abnormal Vibration
+1.518,89.03,8.096,Overheating
+2.061,64.13,14.57,Overcurrent
+3.069,57.76,9.651,Normal
+5.781,54.55,7.813,Abnormal Vibration
+2.218,87.81,8.298,Overheating
+2.418,61.65,15.002,Overcurrent
+2.363,53.77,8.775,Normal
+8.769,62.77,10.359,Abnormal Vibration
+2.625,86.95,9.168,Overheating
+2.197,57.44,16.807,Overcurrent
+1.993,67.05,8.326,Normal
+7.297,59.3,7.506,Abnormal Vibration
+3.229,96.76,8.59,Overheating
+2.582,61.39,14.83,Overcurrent
+1.945,71.68,7.702,Normal
+8.344,70.11,9.007,Abnormal Vibration
+2.609,92.77,8.036,Overheating
+1.334,48.64,19.075,Overcurrent
+1.688,57.48,9.957,Normal
+7.55,51.64,8.462,Abnormal Vibration
+1.298,82.48,7.943,Overheating
+1.818,58.57,13.919,Overcurrent
+2.459,57.11,8.369,Normal
+7.596,48.23,9.364,Abnormal Vibration
+2.188,96.03,7.146,Overheating
+1.977,60.59,15.196,Overcurrent
+1.849,57.25,8.829,Normal
+6.89,58.84,7.045,Abnormal Vibration
+3.308,91.95,7.476,Overheating
+2.093,52.14,17.02,Overcurrent
+2.444,59.57,8.229,Normal
+6.481,58.15,9.025,Abnormal Vibration
+2.099,99.64,10.764,Overheating
+2.849,61.17,16.98,Overcurrent
+2.932,53.54,8.561,Normal
+7.032,60.52,9.667,Abnormal Vibration
+2.125,87.14,8.02,Overheating
+2.267,55.47,15.809,Overcurrent
+1.104,58.39,8.729,Normal
+8.596,58.78,9.656,Abnormal Vibration
+2.452,97.11,8.17,Overheating
+2.041,47.43,17.823,Overcurrent
+2.625,56.79,7.708,Normal
+6.344,57.84,7.33,Abnormal Vibration
+2.161,89.97,9.077,Overheating
+1.274,57.13,13.64,Overcurrent
+1.789,54.98,10.146,Normal
+6.601,56.51,9.278,Abnormal Vibration
+2.184,89.23,7.521,Overheating
+1.639,60.5,17.612,Overcurrent
+2.467,59.07,9.67,Normal
+7.767,54.79,8.067,Abnormal Vibration
+1.588,97.09,8.298,Overheating
+2.257,54.49,15.611,Overcurrent
+2.345,55.6,7.696,Normal
+7.314,55.74,8.438,Abnormal Vibration
+1.945,83.73,9.1,Overheating
+1.761,56.32,14.831,Overcurrent
+2.509,60.19,6.885,Normal
+7.895,59.13,8.196,Abnormal Vibration
+1.886,92.59,7.626,Overheating
+2.488,59.72,17.67,Overcurrent
+2.169,59.96,8.931,Normal
+6.878,61.92,7.773,Abnormal Vibration
+1.614,93.17,10.697,Overheating
+2.003,66.44,17.951,Overcurrent
+2.318,57.37,8.267,Normal
+7.086,64.7,9.514,Abnormal Vibration
+1.821,89.94,7.489,Overheating
+2.056,54.58,15.418,Overcurrent
+1.701,64.83,6.373,Normal
+7.06,61.01,8.32,Abnormal Vibration
+2.266,96.71,9.197,Overheating
+2.004,53.55,16.914,Overcurrent
+2.576,55.51,10.976,Normal
+7.109,66.29,7.69,Abnormal Vibration
+3.04,97.98,10.055,Overheating
+2.395,51.75,15.878,Overcurrent
+2.491,61.24,9.346,Normal
+5.422,64.38,8.54,Abnormal Vibration
+2.684,94.84,8.017,Overheating
+1.579,56.98,12.285,Overcurrent
+1.86,64.56,8.618,Normal
+5.589,57.46,8.898,Abnormal Vibration
+1.85,94.55,7.126,Overheating
+2.386,59.56,17.113,Overcurrent
+2.228,59.21,7.914,Normal
+6.639,59.88,7.468,Abnormal Vibration
+2.711,99.09,8.083,Overheating
+2.523,62.39,15.422,Overcurrent
+1.346,67.24,9.31,Normal
+7.111,58.54,7.866,Abnormal Vibration
+2.483,92.32,10.391,Overheating
+1.982,63.3,16.201,Overcurrent
+3.215,58.42,8.722,Normal
+9.135,53.8,8.276,Abnormal Vibration
+2.641,98.79,9.191,Overheating
+2.042,57.93,16.719,Overcurrent
+1.737,52.13,7.762,Normal
+6.225,53.05,9.271,Abnormal Vibration
+2.097,86.34,9.113,Overheating
+1.235,58.28,17.227,Overcurrent
+2.284,59.9,8.686,Normal
+6.372,64.19,8.287,Abnormal Vibration
+2.828,91.29,9.075,Overheating
+2.431,65.59,17.078,Overcurrent
+1.558,53.83,9.482,Normal
+6.569,56.43,7.417,Abnormal Vibration
+3.183,96.92,9.368,Overheating
+2.331,60.01,17.809,Overcurrent
+2.244,56.58,9.04,Normal
+5.697,59.79,7.657,Abnormal Vibration
+1.146,91.11,7.497,Overheating
+2.204,60.17,14.12,Overcurrent
+3.11,57.49,7.902,Normal
+6.733,59.21,8.854,Abnormal Vibration
+2.938,97.85,8.978,Overheating
+2.176,53.73,17.487,Overcurrent
+2.238,55.65,6.459,Normal
+6.54,49.23,9.6,Abnormal Vibration
+2.755,92.99,8.472,Overheating
+3.137,56.81,15.255,Overcurrent
+1.841,58.05,8.348,Normal
+7.931,53.28,9.776,Abnormal Vibration
+3.321,99.4,6.514,Overheating
+1.695,61.96,17.891,Overcurrent
+2.048,57.35,10.001,Normal
+8.549,55.1,5.726,Abnormal Vibration
+2.149,93.42,7.59,Overheating
+1.811,54.89,17.171,Overcurrent
+2.304,54.42,9.654,Normal
+8.501,56.01,7.47,Abnormal Vibration
+3.214,92.64,7.463,Overheating
+2.574,58.25,17.262,Overcurrent
+2.3,56.76,8.317,Normal
+7.174,62.48,8.481,Abnormal Vibration
+2.196,103.68,8.089,Overheating
+1.783,51.36,16.561,Overcurrent
+1.994,72.8,8.936,Normal
+6.416,60.76,8.841,Abnormal Vibration
+2.275,82.46,7.182,Overheating
+2.786,60.86,15.557,Overcurrent
+2.592,51.76,7.911,Normal
+6.682,63.31,8.229,Abnormal Vibration
+2.602,96.01,8.367,Overheating
+1.583,55.42,15.559,Overcurrent
+2.566,54.61,9.196,Normal
+6.978,53.93,10.655,Abnormal Vibration
+1.675,93.0,8.959,Overheating
+2.261,47.46,13.638,Overcurrent
+2.584,55.14,7.938,Normal
+7.963,63.39,9.373,Abnormal Vibration
+1.833,89.01,8.533,Overheating
+2.157,58.28,12.948,Overcurrent
+2.045,58.37,10.272,Normal
+7.776,55.61,7.772,Abnormal Vibration
+2.428,101.62,8.604,Overheating
+2.494,54.63,17.024,Overcurrent
+2.306,62.56,9.792,Normal
+5.716,58.09,7.62,Abnormal Vibration
+2.07,93.96,8.614,Overheating
+1.471,58.65,16.009,Overcurrent
+2.006,56.61,9.055,Normal
+6.93,49.61,8.811,Abnormal Vibration
+2.256,103.21,9.205,Overheating
+2.104,61.08,17.053,Overcurrent
+1.546,61.95,7.428,Normal
+8.641,60.64,9.236,Abnormal Vibration
+2.039,87.72,8.434,Overheating
+1.807,58.56,12.486,Overcurrent
+1.488,58.3,7.301,Normal
+7.02,61.65,9.149,Abnormal Vibration
+2.252,98.24,8.843,Overheating
+2.228,52.17,15.655,Overcurrent
+2.103,67.63,7.085,Normal
+9.571,59.44,8.024,Abnormal Vibration
+1.608,93.91,7.574,Overheating
+2.07,53.69,16.898,Overcurrent
+1.743,63.75,7.657,Normal
+7.257,58.83,7.714,Abnormal Vibration
+1.793,91.02,9.877,Overheating
+1.831,51.5,12.746,Overcurrent
+1.695,58.87,7.295,Normal
+6.982,60.89,9.389,Abnormal Vibration
+1.839,96.72,10.377,Overheating
+2.317,59.71,18.31,Overcurrent
+1.398,59.12,10.306,Normal
+7.625,57.64,7.77,Abnormal Vibration
+2.025,92.4,7.45,Overheating
+2.284,56.31,16.356,Overcurrent
+2.047,58.52,7.139,Normal
+8.387,49.41,7.83,Abnormal Vibration
+1.165,92.51,7.903,Overheating
+2.192,62.83,17.045,Overcurrent
+2.662,65.02,8.736,Normal
+6.92,52.49,7.805,Abnormal Vibration
+1.918,90.75,6.533,Overheating
+2.58,56.33,17.024,Overcurrent
+2.913,63.47,7.739,Normal
+6.788,58.2,7.476,Abnormal Vibration
+1.801,93.02,7.992,Overheating
+2.663,59.95,16.431,Overcurrent
+2.939,61.71,8.351,Normal
+6.905,58.74,9.846,Abnormal Vibration
+2.499,93.93,7.676,Overheating
+2.948,66.3,16.618,Overcurrent
+2.162,50.15,7.607,Normal
+7.372,55.8,8.225,Abnormal Vibration
+2.125,96.02,6.304,Overheating
+2.19,59.11,17.059,Overcurrent
+1.786,64.6,9.307,Normal
+6.296,56.97,6.24,Abnormal Vibration
+1.357,104.26,8.888,Overheating
+1.866,55.77,20.396,Overcurrent
+2.498,63.78,8.082,Normal
+6.547,56.8,6.205,Abnormal Vibration
+2.182,95.32,9.661,Overheating
+1.901,54.12,18.942,Overcurrent
+2.298,57.83,10.12,Normal
+8.022,60.09,7.355,Abnormal Vibration
+1.641,102.06,7.236,Overheating
+2.463,56.4,15.219,Overcurrent
+2.316,49.12,9.311,Normal
+8.054,57.53,8.871,Abnormal Vibration
+2.526,92.1,7.891,Overheating
+2.184,48.58,14.003,Overcurrent
+2.283,57.96,8.155,Normal
+7.307,60.08,8.741,Abnormal Vibration
+2.33,94.15,9.682,Overheating
+2.599,53.96,16.46,Overcurrent
+2.333,57.99,9.753,Normal
+8.677,58.23,7.117,Abnormal Vibration
+2.341,90.87,10.124,Overheating
+2.015,64.32,15.788,Overcurrent
+2.017,52.96,10.526,Normal
+7.093,56.27,7.16,Abnormal Vibration
+2.518,95.0,10.572,Overheating
+2.984,59.06,16.359,Overcurrent
+1.957,64.9,8.286,Normal
+7.857,54.0,9.386,Abnormal Vibration
+2.579,100.23,7.101,Overheating
+2.535,59.84,14.81,Overcurrent
+2.508,54.63,9.152,Normal
+7.887,59.91,9.473,Abnormal Vibration
+2.332,100.76,8.261,Overheating
+2.307,65.97,18.438,Overcurrent
+1.719,51.63,7.59,Normal
+7.561,65.12,7.533,Abnormal Vibration
+2.098,94.84,8.95,Overheating
+1.615,62.65,13.154,Overcurrent
+2.696,56.09,7.336,Normal
+6.167,55.34,8.429,Abnormal Vibration
+2.739,102.92,8.258,Overheating
+2.282,59.81,16.001,Overcurrent
+2.801,55.64,9.354,Normal
+5.95,55.17,7.557,Abnormal Vibration
+2.443,98.56,9.421,Overheating
+2.038,61.18,17.608,Overcurrent
+1.7,59.86,9.618,Normal
+9.075,59.76,7.919,Abnormal Vibration
+2.608,93.29,9.854,Overheating
+2.361,61.27,15.472,Overcurrent
+3.155,62.43,9.511,Normal
+7.328,62.98,8.969,Abnormal Vibration
+2.908,88.94,9.343,Overheating
+2.937,59.86,16.945,Overcurrent
+2.179,61.47,7.641,Normal
+6.564,53.67,9.768,Abnormal Vibration
+1.937,90.33,9.007,Overheating
+2.176,56.01,16.732,Overcurrent
+1.753,52.23,6.911,Normal
+6.454,61.13,8.715,Abnormal Vibration
+1.616,96.47,5.851,Overheating
+1.996,56.16,17.022,Overcurrent
+2.293,57.46,7.093,Normal
+6.08,50.18,8.382,Abnormal Vibration
+2.167,94.63,9.078,Overheating
+2.092,57.34,16.647,Overcurrent
+2.197,67.32,9.593,Normal
+6.717,63.26,7.375,Abnormal Vibration
+1.521,88.99,9.205,Overheating
+2.715,59.62,15.736,Overcurrent
+2.09,66.49,8.3,Normal
+6.593,58.33,10.207,Abnormal Vibration
+2.604,94.46,8.005,Overheating
+2.979,61.11,14.865,Overcurrent
+2.657,63.63,7.756,Normal
+7.739,54.98,7.367,Abnormal Vibration
+2.315,91.97,6.817,Overheating
+1.668,61.27,16.948,Overcurrent
+2.104,61.8,9.411,Normal
+6.216,63.86,8.362,Abnormal Vibration
+1.588,96.52,7.297,Overheating
+2.224,57.52,18.387,Overcurrent
+1.864,58.83,8.688,Normal
+7.171,60.88,9.032,Abnormal Vibration
+2.92,91.35,9.271,Overheating
+1.699,61.31,15.217,Overcurrent
+3.021,52.22,7.338,Normal
+7.144,59.37,8.489,Abnormal Vibration
+1.752,84.98,8.824,Overheating
+2.483,56.75,16.676,Overcurrent
+2.429,59.0,6.284,Normal
+6.504,57.27,9.563,Abnormal Vibration
+1.725,97.69,7.72,Overheating
+1.562,57.67,15.754,Overcurrent
+2.071,61.93,6.537,Normal
+6.528,50.39,7.573,Abnormal Vibration
+2.388,99.7,9.07,Overheating
+2.889,56.69,16.473,Overcurrent
+2.763,52.46,7.871,Normal
+7.661,60.16,9.088,Abnormal Vibration
+1.274,104.85,7.965,Overheating
+3.001,57.47,14.917,Overcurrent
+2.407,60.37,9.388,Normal
+8.226,67.57,8.869,Abnormal Vibration
+2.051,94.57,8.39,Overheating
+2.105,61.11,13.658,Overcurrent
+1.863,49.59,8.253,Normal
+5.621,60.08,7.977,Abnormal Vibration
+1.72,103.96,8.336,Overheating
+2.978,57.68,16.999,Overcurrent
+2.949,61.81,8.374,Normal
+6.505,54.39,8.464,Abnormal Vibration
+1.779,89.5,6.956,Overheating
+3.202,48.46,16.383,Overcurrent
+1.797,61.6,7.265,Normal
+7.12,57.16,8.416,Abnormal Vibration
+2.504,91.39,9.902,Overheating
+2.174,60.57,13.604,Overcurrent
+2.135,60.93,10.245,Normal
+7.517,62.67,7.199,Abnormal Vibration
+2.204,96.27,8.257,Overheating
+2.649,57.64,14.03,Overcurrent
+1.856,51.45,8.645,Normal
+7.902,61.44,8.594,Abnormal Vibration
+1.347,96.95,7.767,Overheating
+1.985,58.24,18.141,Overcurrent
+2.212,54.3,9.371,Normal
+6.473,56.83,8.077,Abnormal Vibration
+2.292,91.59,9.511,Overheating
+1.406,49.91,14.355,Overcurrent
+2.234,58.35,9.325,Normal
+6.905,57.56,8.573,Abnormal Vibration
+2.251,98.54,8.089,Overheating
+1.748,59.62,15.338,Overcurrent
+2.14,53.94,8.859,Normal
+7.489,53.05,9.2,Abnormal Vibration
+2.482,90.61,6.778,Overheating
+1.92,57.29,15.5,Overcurrent
+1.349,63.93,9.339,Normal
+6.795,53.98,7.121,Abnormal Vibration
+1.748,96.77,8.686,Overheating
+1.272,56.02,18.852,Overcurrent
+2.565,55.85,8.849,Normal
+9.202,59.13,8.4,Abnormal Vibration
+2.343,91.09,9.105,Overheating
+2.227,56.97,16.169,Overcurrent
+1.842,57.67,9.009,Normal
+8.225,51.58,9.615,Abnormal Vibration
+2.175,97.58,9.931,Overheating
+2.239,53.35,16.279,Overcurrent
+1.982,56.42,8.343,Normal
+6.914,60.11,9.782,Abnormal Vibration
+2.593,93.49,8.483,Overheating
+2.519,57.41,14.694,Overcurrent
+2.271,67.8,9.941,Normal
+6.625,56.07,9.532,Abnormal Vibration
+2.203,94.09,7.5,Overheating
+1.779,62.06,16.717,Overcurrent
+2.677,57.3,8.608,Normal
+6.433,52.04,7.945,Abnormal Vibration
+2.96,98.86,8.432,Overheating
+3.039,54.59,17.398,Overcurrent
+2.716,50.89,8.765,Normal
+6.556,56.67,8.583,Abnormal Vibration
+2.036,97.57,9.015,Overheating
+1.75,56.17,16.086,Overcurrent
+2.227,50.0,7.669,Normal
+6.939,55.71,7.781,Abnormal Vibration
+1.642,96.05,6.064,Overheating
+2.311,56.63,16.041,Overcurrent
+1.915,57.97,7.897,Normal
+7.417,62.6,9.519,Abnormal Vibration
+2.613,94.67,6.843,Overheating
+1.736,56.68,17.638,Overcurrent
+1.903,67.77,7.96,Normal
+6.925,54.75,7.862,Abnormal Vibration
+1.985,88.03,8.402,Overheating
+1.701,54.6,12.348,Overcurrent
+2.46,64.44,7.794,Normal
+6.956,56.06,6.641,Abnormal Vibration
+2.697,95.51,8.718,Overheating
+2.611,57.44,18.276,Overcurrent
+1.782,57.05,9.543,Normal
+6.633,60.32,9.273,Abnormal Vibration
+2.075,92.57,6.84,Overheating
+3.079,62.03,15.231,Overcurrent
+2.831,55.17,8.938,Normal
+7.429,56.32,9.008,Abnormal Vibration
+2.153,96.32,8.462,Overheating
+2.385,52.27,14.575,Overcurrent
+2.288,52.03,8.191,Normal
+6.691,62.62,7.425,Abnormal Vibration
+2.248,101.57,5.56,Overheating
+2.67,59.64,16.998,Overcurrent
+1.899,59.17,8.301,Normal
+6.549,57.64,8.046,Abnormal Vibration
+1.96,92.2,7.595,Overheating
+1.79,61.36,17.799,Overcurrent
+1.224,56.21,9.865,Normal
+6.809,66.03,7.864,Abnormal Vibration
+1.308,95.84,8.069,Overheating
+1.492,53.5,15.79,Overcurrent
+2.289,54.65,9.337,Normal
+8.261,51.63,8.789,Abnormal Vibration
+3.337,96.11,8.036,Overheating
+2.199,57.34,16.696,Overcurrent
+2.614,58.14,9.297,Normal
+7.026,57.76,10.756,Abnormal Vibration
+2.122,101.42,9.627,Overheating
+2.402,57.88,18.93,Overcurrent
+2.039,64.73,6.764,Normal
+7.259,57.89,7.369,Abnormal Vibration
+2.765,92.69,8.599,Overheating
+3.201,59.72,18.144,Overcurrent
+2.376,56.27,6.808,Normal
+7.556,64.02,8.991,Abnormal Vibration
+2.283,96.37,7.717,Overheating
+2.822,66.53,16.808,Overcurrent
+1.859,55.53,6.397,Normal
+6.993,52.39,6.137,Abnormal Vibration
+1.449,92.4,8.323,Overheating
+2.457,53.27,15.336,Overcurrent
+1.839,59.26,8.876,Normal
+7.236,61.47,9.967,Abnormal Vibration
+2.167,90.48,9.419,Overheating
+2.722,56.07,15.226,Overcurrent
+2.255,64.13,9.371,Normal
+6.89,63.53,10.167,Abnormal Vibration
+2.281,95.46,8.21,Overheating
+2.142,54.66,14.042,Overcurrent
+2.455,56.3,8.52,Normal
+7.404,64.65,9.015,Abnormal Vibration
+2.437,97.92,9.156,Overheating
+3.121,59.66,15.594,Overcurrent
+1.844,52.1,8.584,Normal
+7.573,63.24,7.158,Abnormal Vibration
+2.265,89.75,9.001,Overheating
+1.879,57.27,14.589,Overcurrent
+2.52,50.55,8.91,Normal
+7.302,49.53,8.455,Abnormal Vibration
+1.999,92.76,7.735,Overheating
+2.224,62.94,16.342,Overcurrent
+2.443,54.29,7.999,Normal
+7.479,62.16,10.019,Abnormal Vibration
+1.535,94.26,9.545,Overheating
+1.848,63.6,18.083,Overcurrent
+2.014,62.73,8.582,Normal
+6.393,59.81,7.471,Abnormal Vibration
+1.964,93.92,9.621,Overheating
+2.664,54.44,14.681,Overcurrent
+3.413,63.48,7.318,Normal
+7.898,54.88,6.983,Abnormal Vibration
+2.666,95.07,9.679,Overheating
+3.085,53.6,15.17,Overcurrent
+2.609,69.43,8.506,Normal
+7.919,52.3,10.698,Abnormal Vibration
+2.123,91.09,6.711,Overheating
+2.274,60.54,17.005,Overcurrent
+1.927,60.89,8.855,Normal
+8.491,59.87,8.55,Abnormal Vibration
+2.463,94.65,7.59,Overheating
+1.481,59.25,12.647,Overcurrent
+1.756,50.6,8.039,Normal
+7.237,59.95,8.797,Abnormal Vibration
+1.944,97.44,6.386,Overheating
+1.496,53.99,17.668,Overcurrent
+2.442,57.64,7.174,Normal
+6.389,64.07,8.607,Abnormal Vibration
+1.722,88.66,7.218,Overheating
+2.794,54.69,16.788,Overcurrent
+2.324,62.67,7.722,Normal
+6.005,54.71,8.869,Abnormal Vibration
+2.781,91.37,9.048,Overheating
+2.335,54.48,15.352,Overcurrent
+2.244,57.19,8.074,Normal
+7.257,51.83,9.374,Abnormal Vibration
+1.779,95.62,7.392,Overheating
+2.671,56.86,14.653,Overcurrent
+2.163,64.37,7.068,Normal
+6.443,53.86,8.797,Abnormal Vibration
+2.272,97.11,8.292,Overheating
+0.884,53.66,15.584,Overcurrent
+1.956,52.54,10.492,Normal
+5.935,56.4,9.12,Abnormal Vibration
+2.055,96.5,8.399,Overheating
+1.742,58.28,14.437,Overcurrent
+2.194,62.08,7.971,Normal
+7.101,55.28,8.333,Abnormal Vibration
+2.271,90.12,9.768,Overheating
+1.945,65.18,16.006,Overcurrent
+2.401,64.01,9.402,Normal
+9.444,54.46,8.087,Abnormal Vibration
+2.066,85.56,9.368,Overheating
+2.137,52.55,16.165,Overcurrent
+2.011,59.82,9.91,Normal
+7.542,61.26,7.838,Abnormal Vibration
+2.176,93.06,7.768,Overheating
+2.248,61.3,14.101,Overcurrent
+1.385,60.49,7.589,Normal
+7.921,59.96,8.441,Abnormal Vibration
+1.262,102.95,8.57,Overheating
+1.818,61.62,14.289,Overcurrent
+2.184,50.19,8.249,Normal
+6.904,50.19,7.16,Abnormal Vibration
+1.855,91.74,8.607,Overheating
+2.33,57.35,17.384,Overcurrent
+2.137,58.15,8.688,Normal
+8.504,59.46,8.128,Abnormal Vibration
+2.497,90.66,7.909,Overheating
+1.352,64.66,16.115,Overcurrent
+1.904,62.01,6.899,Normal
+6.896,59.7,10.0,Abnormal Vibration
+1.873,100.92,8.894,Overheating
+2.063,54.16,17.221,Overcurrent
+3.541,55.45,9.108,Normal
+7.42,64.18,9.876,Abnormal Vibration
+2.423,100.9,5.491,Overheating
+3.479,59.78,15.355,Overcurrent
+2.304,68.1,9.425,Normal
+7.723,59.19,8.134,Abnormal Vibration
+3.665,98.69,8.23,Overheating
+2.9,57.56,13.76,Overcurrent
+2.635,52.7,9.165,Normal
+8.289,61.87,10.137,Abnormal Vibration
+2.988,99.64,7.988,Overheating
+1.46,63.58,16.058,Overcurrent
+2.441,53.64,9.055,Normal
+6.722,56.67,9.698,Abnormal Vibration
+2.663,88.59,10.426,Overheating
+2.667,62.56,14.545,Overcurrent
+1.696,62.03,9.564,Normal
+5.163,57.96,8.23,Abnormal Vibration
+2.035,91.62,7.475,Overheating
+2.588,60.34,12.685,Overcurrent
+1.855,53.3,9.774,Normal
+7.572,60.28,9.315,Abnormal Vibration
+1.989,92.16,7.632,Overheating
+2.559,60.42,14.836,Overcurrent
+2.287,47.15,6.672,Normal
+7.199,46.43,8.015,Abnormal Vibration
+1.858,92.58,9.016,Overheating
+1.005,60.71,16.018,Overcurrent
+1.772,49.9,10.49,Normal
+7.115,62.23,8.945,Abnormal Vibration
+2.96,90.28,9.693,Overheating
+1.726,63.1,15.8,Overcurrent
+1.805,51.28,9.608,Normal
+6.205,53.75,8.251,Abnormal Vibration
+1.901,95.97,8.9,Overheating
+2.13,66.38,15.221,Overcurrent
+2.441,62.05,7.318,Normal
+8.198,58.87,7.841,Abnormal Vibration
+2.594,90.26,9.461,Overheating
+2.219,57.76,13.353,Overcurrent
+2.488,56.18,7.268,Normal
+7.762,53.74,8.993,Abnormal Vibration
+2.284,97.15,7.96,Overheating
+2.465,57.1,14.645,Overcurrent
+1.827,59.39,8.439,Normal
+6.296,60.27,9.162,Abnormal Vibration
+2.654,91.84,8.621,Overheating
+2.801,57.57,15.848,Overcurrent
+0.601,52.81,9.274,Normal
+8.581,61.63,9.591,Abnormal Vibration
+2.017,89.69,9.264,Overheating
+2.485,62.8,19.044,Overcurrent
+3.359,58.97,8.028,Normal
+7.463,58.58,9.297,Abnormal Vibration
+1.366,83.32,7.74,Overheating
+2.468,65.16,17.583,Overcurrent
+1.508,54.8,8.391,Normal
+7.431,64.35,8.133,Abnormal Vibration
+2.114,91.97,7.332,Overheating
+2.147,48.88,15.9,Overcurrent
+1.869,56.62,8.437,Normal
+7.24,55.59,7.152,Abnormal Vibration
+2.934,89.1,8.578,Overheating
+1.815,60.45,16.282,Overcurrent
+2.048,62.49,7.805,Normal
+6.625,59.21,7.367,Abnormal Vibration
+1.619,89.7,8.672,Overheating
+1.988,55.78,16.446,Overcurrent
+2.395,63.32,8.752,Normal
+7.466,52.61,7.943,Abnormal Vibration
+2.021,97.08,7.366,Overheating
+3.017,54.26,18.682,Overcurrent
+2.203,53.79,7.807,Normal
+7.014,62.79,6.05,Abnormal Vibration
+1.904,98.01,8.505,Overheating
+1.818,56.55,17.619,Overcurrent
+2.723,56.26,7.36,Normal
+8.028,55.36,8.61,Abnormal Vibration
+2.404,87.32,10.645,Overheating
+2.439,55.23,16.488,Overcurrent
+1.399,59.22,9.649,Normal
+7.633,63.01,9.174,Abnormal Vibration
+1.718,96.41,8.829,Overheating
+2.287,50.14,14.243,Overcurrent
+2.863,67.41,9.946,Normal
+6.96,59.89,6.812,Abnormal Vibration
+3.307,93.07,8.845,Overheating
+2.454,55.89,15.947,Overcurrent
+1.676,53.99,8.952,Normal
+8.468,61.79,6.332,Abnormal Vibration
+1.674,92.66,10.186,Overheating
+2.944,58.86,18.456,Overcurrent
+2.071,62.18,7.728,Normal
+7.385,55.36,9.639,Abnormal Vibration
+2.517,96.92,8.464,Overheating
+2.423,55.65,15.676,Overcurrent
+1.668,59.36,8.445,Normal
+6.668,52.22,9.471,Abnormal Vibration
+2.077,95.64,8.173,Overheating
+1.953,55.22,18.654,Overcurrent
+2.398,59.55,8.499,Normal
+7.481,58.73,7.479,Abnormal Vibration
+2.424,97.19,9.137,Overheating
+2.389,51.15,15.867,Overcurrent
+2.789,57.76,8.703,Normal
+5.894,56.33,8.853,Abnormal Vibration
+1.832,90.95,9.399,Overheating
+2.429,56.1,16.352,Overcurrent
+1.84,63.87,8.281,Normal
+7.84,57.99,8.284,Abnormal Vibration
+2.536,99.85,9.2,Overheating
+2.375,62.61,17.707,Overcurrent
+2.252,63.22,8.737,Normal
+7.256,50.41,7.194,Abnormal Vibration
+1.681,88.6,6.02,Overheating
+2.313,52.56,13.047,Overcurrent
+3.125,63.33,6.075,Normal
+6.579,58.09,6.793,Abnormal Vibration
+2.362,93.5,9.121,Overheating
+1.506,63.83,14.952,Overcurrent
+2.697,55.06,6.767,Normal
+7.157,58.39,8.399,Abnormal Vibration
+2.244,99.21,8.664,Overheating
+2.181,61.19,14.734,Overcurrent
+1.515,59.75,8.663,Normal
+7.529,52.33,10.131,Abnormal Vibration
+1.995,94.48,7.828,Overheating
+2.301,51.04,16.367,Overcurrent
+1.612,61.85,8.25,Normal
+7.898,60.98,8.717,Abnormal Vibration
+1.861,92.64,9.145,Overheating
+2.04,59.93,14.978,Overcurrent
+2.435,54.23,6.951,Normal
+6.389,57.72,7.523,Abnormal Vibration
+2.359,94.87,9.441,Overheating
+2.005,62.51,15.87,Overcurrent
+1.959,58.09,7.994,Normal
+6.458,58.42,8.498,Abnormal Vibration
+2.705,89.51,8.791,Overheating
+2.192,60.19,16.052,Overcurrent
+2.36,53.7,9.085,Normal
+5.69,66.07,7.864,Abnormal Vibration
+2.574,100.19,12.33,Overheating
+2.549,54.09,17.223,Overcurrent
+2.084,55.61,7.794,Normal
+7.024,60.63,8.019,Abnormal Vibration
+2.613,92.23,8.527,Overheating
+2.511,49.46,14.693,Overcurrent
+1.958,59.34,9.599,Normal
+7.399,65.23,8.144,Abnormal Vibration
+1.918,97.07,8.168,Overheating
+2.68,55.82,17.056,Overcurrent
+1.996,54.6,10.077,Normal
+7.568,66.22,10.481,Abnormal Vibration
+2.327,98.71,7.533,Overheating
+1.922,57.58,16.32,Overcurrent
+3.397,65.33,9.365,Normal
+6.755,66.81,8.295,Abnormal Vibration
+2.141,91.88,7.64,Overheating
+2.701,59.93,15.153,Overcurrent
+1.819,52.6,7.461,Normal
+6.75,59.04,8.895,Abnormal Vibration
+2.249,92.73,9.168,Overheating
+2.386,58.99,17.898,Overcurrent
+2.471,59.98,9.086,Normal
+6.695,52.24,10.878,Abnormal Vibration
+1.693,94.17,7.533,Overheating
+1.945,52.16,12.718,Overcurrent
+1.664,67.56,8.964,Normal
+7.71,58.93,8.704,Abnormal Vibration
+2.279,91.15,8.665,Overheating
+1.925,63.26,16.149,Overcurrent
+1.589,52.0,7.53,Normal
+6.792,59.37,9.86,Abnormal Vibration
+2.132,98.03,10.182,Overheating
+2.0,60.7,16.648,Overcurrent
+1.68,51.67,8.054,Normal
+7.163,54.41,8.141,Abnormal Vibration
+1.743,93.43,9.007,Overheating
+2.276,62.92,17.301,Overcurrent
+1.924,66.77,8.125,Normal
+7.876,59.86,8.459,Abnormal Vibration
+1.778,97.29,9.929,Overheating
+2.197,59.71,18.587,Overcurrent
+2.282,54.29,9.577,Normal
+6.961,65.28,6.727,Abnormal Vibration
+1.974,92.0,9.663,Overheating
+2.045,59.47,17.958,Overcurrent
+1.519,52.14,8.504,Normal
+7.632,63.77,8.013,Abnormal Vibration
+1.899,90.9,7.879,Overheating
+3.188,67.38,15.152,Overcurrent
+2.252,58.11,8.49,Normal
+8.983,63.73,7.645,Abnormal Vibration
+1.28,95.87,9.458,Overheating
+2.752,64.57,13.11,Overcurrent
+2.541,56.98,8.826,Normal
+7.364,55.72,8.915,Abnormal Vibration
+2.042,96.0,8.317,Overheating
+2.046,57.3,17.002,Overcurrent
+2.624,54.43,7.007,Normal
+7.567,58.15,8.326,Abnormal Vibration
+1.826,90.44,8.05,Overheating
+2.76,63.24,16.173,Overcurrent
+3.245,56.7,8.067,Normal
+7.522,62.4,8.426,Abnormal Vibration
+2.052,99.46,8.777,Overheating
+1.684,60.09,16.118,Overcurrent
+2.421,64.12,8.48,Normal
+6.28,55.51,9.508,Abnormal Vibration
+2.839,97.37,7.244,Overheating
+2.458,55.27,14.732,Overcurrent
+2.194,63.36,6.835,Normal
+8.439,59.86,8.456,Abnormal Vibration
+2.716,87.78,9.668,Overheating
+1.815,64.23,15.471,Overcurrent
+1.605,60.28,7.672,Normal
+7.976,56.78,7.496,Abnormal Vibration
+1.481,92.14,9.755,Overheating
+2.803,63.15,17.836,Overcurrent
+2.613,55.32,7.203,Normal
+7.865,53.45,9.943,Abnormal Vibration
+1.698,96.72,8.162,Overheating
+1.577,59.16,18.043,Overcurrent
+2.3,68.75,8.865,Normal
+5.899,63.89,9.018,Abnormal Vibration
+2.415,89.83,8.882,Overheating
+2.558,57.44,16.167,Overcurrent
+0.778,61.58,8.353,Normal
+6.484,59.95,10.161,Abnormal Vibration
+2.076,97.86,9.038,Overheating
+1.351,60.52,14.046,Overcurrent
+1.674,59.67,7.884,Normal
+6.005,56.17,8.249,Abnormal Vibration
+1.983,98.52,8.883,Overheating
+2.131,65.02,18.337,Overcurrent
+2.838,53.4,9.354,Normal
+8.309,62.54,9.351,Abnormal Vibration
+1.796,89.11,7.876,Overheating
+2.085,57.0,17.82,Overcurrent
+2.549,61.28,7.789,Normal
+7.025,65.11,7.516,Abnormal Vibration
+2.398,91.5,10.266,Overheating
+2.504,55.56,15.717,Overcurrent
+2.719,57.98,9.719,Normal
+5.592,56.22,7.805,Abnormal Vibration
+2.231,95.09,8.421,Overheating
+2.886,58.15,16.013,Overcurrent
+2.298,51.46,7.264,Normal
+6.836,60.91,7.562,Abnormal Vibration
+2.565,86.49,7.04,Overheating
+2.989,57.02,11.634,Overcurrent
+2.324,54.68,7.029,Normal
+5.866,61.65,8.161,Abnormal Vibration
+3.146,97.75,9.983,Overheating
+2.169,55.71,18.782,Overcurrent
+2.1,52.89,8.447,Normal
+6.375,65.52,7.233,Abnormal Vibration
+2.06,89.17,5.766,Overheating
+1.588,59.27,16.729,Overcurrent
+1.686,58.09,9.087,Normal
+7.935,52.65,8.029,Abnormal Vibration
+2.357,93.24,8.082,Overheating
+2.039,56.86,18.441,Overcurrent
+1.949,56.82,7.368,Normal
+7.149,47.68,9.194,Abnormal Vibration
+1.63,90.01,8.092,Overheating
+1.312,54.09,15.704,Overcurrent
+1.496,56.32,8.454,Normal
+6.93,52.52,7.497,Abnormal Vibration
+2.388,86.05,8.304,Overheating
+2.055,57.63,13.832,Overcurrent
+1.718,59.22,9.071,Normal
+7.451,53.76,8.816,Abnormal Vibration
+2.792,92.44,9.44,Overheating
+1.58,61.81,17.122,Overcurrent
+2.571,60.39,7.955,Normal
+6.704,55.13,8.501,Abnormal Vibration
+2.4,89.54,8.372,Overheating
+2.877,57.1,12.437,Overcurrent
+1.358,62.05,8.851,Normal
+7.185,68.1,8.405,Abnormal Vibration
+2.115,90.39,9.565,Overheating
+2.96,49.31,18.064,Overcurrent
+2.34,60.87,7.357,Normal
+5.599,63.19,7.794,Abnormal Vibration
+1.747,95.25,6.519,Overheating
+2.445,58.47,17.929,Overcurrent
+2.344,68.33,7.88,Normal
+7.961,54.36,8.261,Abnormal Vibration
+2.446,90.56,9.45,Overheating
+0.884,48.62,14.183,Overcurrent
+2.745,55.54,7.665,Normal
+6.773,62.26,9.349,Abnormal Vibration
+2.589,95.92,10.341,Overheating
+2.652,51.69,18.569,Overcurrent
+1.783,63.95,7.657,Normal
+7.044,56.26,7.036,Abnormal Vibration
+1.948,91.2,7.402,Overheating
+1.725,61.49,17.34,Overcurrent
+1.898,58.96,9.49,Normal
+7.595,56.29,8.664,Abnormal Vibration
+2.234,88.63,7.985,Overheating
+3.606,59.0,15.382,Overcurrent
+1.642,68.53,9.126,Normal
+6.576,63.61,9.513,Abnormal Vibration
+1.702,93.67,8.196,Overheating
+2.099,60.75,15.883,Overcurrent
+2.645,49.85,8.412,Normal
+6.614,59.89,9.367,Abnormal Vibration
+1.198,100.16,9.922,Overheating
+1.726,60.72,16.614,Overcurrent
+2.861,68.12,8.721,Normal
+7.162,64.62,8.587,Abnormal Vibration
+2.253,81.42,9.91,Overheating
+3.096,57.32,18.201,Overcurrent
+2.455,58.69,8.536,Normal
+5.667,61.48,7.792,Abnormal Vibration
+1.789,99.91,8.018,Overheating
+1.659,57.02,14.572,Overcurrent
+2.45,56.3,10.618,Normal
+6.498,53.24,7.365,Abnormal Vibration
+1.613,96.32,7.1,Overheating
+2.316,64.32,18.286,Overcurrent
+1.895,58.21,7.38,Normal
+7.977,57.72,10.01,Abnormal Vibration
+1.996,91.83,8.315,Overheating
+2.102,64.12,18.924,Overcurrent
+1.417,53.03,8.104,Normal
+7.279,68.61,8.028,Abnormal Vibration
+2.322,101.77,9.179,Overheating
+2.324,54.86,14.861,Overcurrent
+2.604,62.74,10.752,Normal
+7.383,58.31,7.856,Abnormal Vibration
+2.607,87.35,7.479,Overheating
+3.188,61.68,16.702,Overcurrent
+2.857,55.99,8.864,Normal
+7.711,59.58,8.765,Abnormal Vibration
+1.918,92.63,8.762,Overheating
+2.216,63.52,15.689,Overcurrent
+2.36,57.66,8.091,Normal
+8.153,51.9,8.203,Abnormal Vibration
+3.177,96.9,8.905,Overheating
+2.413,53.75,17.067,Overcurrent
+1.444,60.34,8.987,Normal
+7.751,53.82,9.793,Abnormal Vibration
+3.157,90.78,8.0,Overheating
+1.809,54.72,13.575,Overcurrent
+1.864,55.31,9.599,Normal
+6.418,60.27,8.22,Abnormal Vibration
+2.097,99.99,9.622,Overheating
+3.317,67.3,15.778,Overcurrent
+2.273,58.86,7.976,Normal
+7.043,59.77,7.807,Abnormal Vibration
+1.449,103.52,7.062,Overheating
+1.761,60.23,14.276,Overcurrent
+1.851,60.76,8.036,Normal
+7.314,57.49,7.83,Abnormal Vibration
+2.506,90.25,10.412,Overheating
+1.639,62.6,16.144,Overcurrent
+1.71,56.07,7.955,Normal
+6.613,59.67,8.013,Abnormal Vibration
+2.612,92.87,8.269,Overheating
+2.325,63.58,17.313,Overcurrent
+1.899,57.69,7.059,Normal
+6.995,52.97,9.474,Abnormal Vibration
+2.986,86.88,8.274,Overheating
+2.684,59.49,12.842,Overcurrent
+2.389,65.1,10.192,Normal
+6.301,67.57,7.259,Abnormal Vibration
+2.713,91.94,8.597,Overheating
+3.154,58.49,17.019,Overcurrent
+1.799,66.94,8.666,Normal
+5.987,59.99,10.365,Abnormal Vibration
+2.998,86.3,7.56,Overheating
+2.317,57.49,12.817,Overcurrent
+1.809,60.69,9.346,Normal
+8.104,56.74,9.191,Abnormal Vibration
+0.852,83.94,7.703,Overheating
+2.901,57.01,17.383,Overcurrent
+2.209,55.57,7.784,Normal
+6.605,58.43,8.676,Abnormal Vibration
+1.38,98.4,7.943,Overheating
+3.125,68.7,12.957,Overcurrent
+1.793,67.36,8.34,Normal
+8.008,59.02,8.19,Abnormal Vibration
+3.091,86.81,8.879,Overheating
+2.61,57.05,12.214,Overcurrent
+2.765,61.05,8.555,Normal
+8.008,61.63,7.842,Abnormal Vibration
+3.018,82.96,9.258,Overheating
+2.063,48.24,17.119,Overcurrent
+2.314,56.29,9.523,Normal
+5.764,58.53,8.5,Abnormal Vibration
+2.01,93.16,7.998,Overheating
+2.865,57.14,15.686,Overcurrent
+1.439,64.65,8.303,Normal
+6.415,54.72,7.137,Abnormal Vibration
+2.943,90.18,7.107,Overheating
+2.442,64.71,14.246,Overcurrent
+2.02,56.96,10.7,Normal
+6.556,57.07,8.06,Abnormal Vibration
+1.965,85.59,9.175,Overheating
+2.348,59.1,16.661,Overcurrent
+2.465,50.59,8.591,Normal
+8.008,66.13,8.653,Abnormal Vibration
+1.715,97.84,9.666,Overheating
+1.814,63.53,16.642,Overcurrent
+2.351,57.15,7.86,Normal
+8.339,56.15,10.562,Abnormal Vibration
+3.05,95.59,8.534,Overheating
+2.57,59.89,15.667,Overcurrent
+2.664,70.65,7.994,Normal
+7.4,56.4,9.959,Abnormal Vibration
+2.072,95.49,8.603,Overheating
+2.485,61.48,18.446,Overcurrent
+2.073,57.48,8.12,Normal
+7.175,61.66,9.095,Abnormal Vibration
+1.776,90.46,7.545,Overheating
+2.088,62.63,13.671,Overcurrent
+1.513,56.75,9.246,Normal
+7.921,58.04,8.135,Abnormal Vibration
+2.369,94.84,7.117,Overheating
+2.022,58.65,18.635,Overcurrent
+2.26,63.1,9.201,Normal
+6.038,55.86,7.868,Abnormal Vibration
+2.543,89.37,9.085,Overheating
+2.173,52.86,16.005,Overcurrent
+1.502,73.53,8.988,Normal
+6.277,62.05,8.747,Abnormal Vibration
+2.317,99.5,7.604,Overheating
+2.107,61.98,17.673,Overcurrent
+2.823,57.12,8.608,Normal
+7.123,61.02,9.911,Abnormal Vibration
+2.135,86.89,8.878,Overheating
+2.5,63.34,16.654,Overcurrent
+1.988,59.62,8.391,Normal
+8.231,55.02,9.033,Abnormal Vibration
+2.032,93.12,9.643,Overheating
+1.696,60.51,16.551,Overcurrent
+2.167,59.63,8.411,Normal
+7.803,62.59,8.321,Abnormal Vibration
+3.012,94.41,8.36,Overheating
+2.099,60.47,14.225,Overcurrent
+1.979,58.99,9.059,Normal
+7.736,56.71,6.709,Abnormal Vibration
+1.852,89.09,8.433,Overheating
+2.363,59.01,16.337,Overcurrent
+3.168,54.17,10.555,Normal
+6.822,56.64,7.265,Abnormal Vibration
+2.046,97.16,9.115,Overheating
+1.341,49.13,18.126,Overcurrent
+2.272,66.3,7.376,Normal
+8.368,63.34,8.645,Abnormal Vibration
+2.652,87.22,8.211,Overheating
+2.237,66.78,15.824,Overcurrent
+2.722,59.37,6.756,Normal
+6.958,60.47,8.701,Abnormal Vibration
+2.215,102.26,7.63,Overheating
+1.932,58.28,17.391,Overcurrent
+2.851,57.43,6.684,Normal
+6.848,51.11,6.504,Abnormal Vibration
+2.06,97.04,6.878,Overheating
+3.009,56.39,13.383,Overcurrent
+2.613,61.49,8.553,Normal
+6.026,58.8,7.518,Abnormal Vibration
+2.672,92.48,8.977,Overheating
+1.77,53.93,14.5,Overcurrent
+2.499,60.25,8.246,Normal
+8.669,55.43,8.672,Abnormal Vibration
+3.067,89.46,9.913,Overheating
+2.051,55.14,13.858,Overcurrent
+1.991,55.26,7.702,Normal
+7.349,65.59,9.296,Abnormal Vibration
+1.63,92.87,8.752,Overheating
+2.148,55.66,16.234,Overcurrent
+2.539,62.46,9.181,Normal
+6.739,58.35,5.823,Abnormal Vibration
+2.621,88.15,7.335,Overheating
+2.036,55.16,17.673,Overcurrent
+2.939,59.93,7.497,Normal
+7.827,64.56,8.45,Abnormal Vibration
+1.823,97.12,10.32,Overheating
+2.222,59.31,17.142,Overcurrent
+2.757,65.45,7.617,Normal
+8.637,58.25,7.011,Abnormal Vibration
+2.299,91.94,8.573,Overheating
+1.627,63.82,16.541,Overcurrent
+2.814,64.99,8.57,Normal
+6.897,55.89,8.981,Abnormal Vibration
+2.338,89.81,9.922,Overheating
+2.08,63.63,15.935,Overcurrent
+2.397,63.87,8.049,Normal
+7.155,57.85,9.003,Abnormal Vibration
+2.313,88.91,7.622,Overheating
+2.164,58.52,16.888,Overcurrent
+1.455,60.12,8.025,Normal
+6.096,54.81,9.246,Abnormal Vibration
+2.871,95.28,8.285,Overheating
+1.764,53.86,15.19,Overcurrent
+1.788,57.73,8.632,Normal
+6.945,55.34,9.517,Abnormal Vibration
+1.448,94.27,8.76,Overheating
+1.119,51.98,16.662,Overcurrent
+1.516,59.67,8.347,Normal
+7.253,58.07,8.814,Abnormal Vibration
+2.583,94.0,9.585,Overheating
+2.037,46.63,16.879,Overcurrent
+1.422,48.51,8.451,Normal
+7.133,56.77,9.93,Abnormal Vibration
+2.322,82.82,8.879,Overheating
+2.498,67.93,17.657,Overcurrent
+2.669,65.63,7.978,Normal
+7.57,50.87,8.723,Abnormal Vibration
+2.117,88.96,9.665,Overheating
+2.185,58.95,15.776,Overcurrent
+2.08,55.07,7.721,Normal
+6.685,62.66,8.746,Abnormal Vibration
+2.264,86.99,8.678,Overheating
+1.188,63.05,15.791,Overcurrent
+1.883,57.27,9.983,Normal
+5.76,57.33,7.825,Abnormal Vibration
+2.344,90.19,6.681,Overheating
+1.503,55.46,13.551,Overcurrent
+2.181,54.31,9.313,Normal
+5.919,60.43,7.368,Abnormal Vibration
+2.939,90.93,7.266,Overheating
+2.819,53.05,12.818,Overcurrent
+3.19,58.28,7.938,Normal
+6.423,49.65,8.039,Abnormal Vibration
+2.398,96.72,8.489,Overheating
+2.815,55.05,16.606,Overcurrent
+1.773,49.44,7.26,Normal
+6.545,60.5,8.439,Abnormal Vibration
+2.77,81.7,6.549,Overheating
+1.61,60.2,13.63,Overcurrent
+2.742,68.05,6.421,Normal
+6.902,56.51,7.818,Abnormal Vibration
+1.111,86.43,8.402,Overheating
+2.331,52.93,18.709,Overcurrent
+1.411,65.56,6.669,Normal
+6.012,58.81,9.413,Abnormal Vibration
+2.638,84.92,9.387,Overheating
+2.461,60.3,18.842,Overcurrent
+2.203,55.85,8.486,Normal
+7.005,59.37,9.208,Abnormal Vibration
+1.455,93.41,8.065,Overheating
+2.241,57.1,16.158,Overcurrent
+2.526,65.16,9.189,Normal
+6.66,62.49,8.183,Abnormal Vibration
+2.58,91.4,7.7,Overheating
+2.413,52.59,13.81,Overcurrent
+2.29,63.05,8.802,Normal
+7.456,58.78,10.024,Abnormal Vibration
+2.504,93.45,8.059,Overheating
+1.949,52.2,19.434,Overcurrent
+2.087,58.06,9.622,Normal
+6.86,62.24,7.867,Abnormal Vibration
+2.146,98.86,6.935,Overheating
+1.952,57.98,16.421,Overcurrent
+2.187,55.14,10.112,Normal
+7.265,55.51,8.378,Abnormal Vibration
+2.862,82.51,8.951,Overheating
+1.667,59.82,16.567,Overcurrent
+1.366,64.62,8.32,Normal
+5.37,52.02,7.707,Abnormal Vibration
+2.258,92.88,9.074,Overheating
+2.617,60.01,16.556,Overcurrent
+1.927,57.52,8.509,Normal
+6.381,49.95,9.926,Abnormal Vibration
+2.493,100.4,7.687,Overheating
+2.395,55.32,16.847,Overcurrent
+2.389,56.9,9.553,Normal
+6.448,63.47,8.077,Abnormal Vibration
+2.374,86.4,8.307,Overheating
+2.084,56.59,14.724,Overcurrent
+2.264,53.59,8.131,Normal
+6.946,59.4,9.392,Abnormal Vibration
+1.324,88.35,10.2,Overheating
+2.407,59.84,14.987,Overcurrent
+0.677,63.03,7.953,Normal
+7.546,65.26,9.22,Abnormal Vibration
+2.656,95.61,8.234,Overheating
+2.405,57.8,18.621,Overcurrent
+2.511,63.06,9.463,Normal
+6.885,57.69,8.897,Abnormal Vibration
+3.037,90.93,8.705,Overheating
+1.659,58.81,16.924,Overcurrent
+1.799,53.82,8.687,Normal
+7.405,61.75,9.355,Abnormal Vibration
+2.062,90.55,8.252,Overheating
+2.054,58.18,15.262,Overcurrent
+2.462,57.88,8.85,Normal
+7.002,61.78,8.545,Abnormal Vibration
+1.676,98.33,7.444,Overheating
+2.735,52.45,17.586,Overcurrent
+2.453,48.87,7.48,Normal
+6.857,61.35,9.629,Abnormal Vibration
+3.004,95.93,8.603,Overheating
+2.282,59.96,15.031,Overcurrent
+1.842,54.06,9.195,Normal
+8.193,48.59,8.092,Abnormal Vibration
+2.008,92.1,9.635,Overheating
+1.467,63.98,13.716,Overcurrent
+2.78,55.16,7.807,Normal
+6.423,56.07,8.584,Abnormal Vibration
+2.228,93.96,8.349,Overheating
+2.579,57.51,14.618,Overcurrent
+2.165,66.14,7.284,Normal
+8.69,56.32,7.852,Abnormal Vibration
+1.709,99.23,8.408,Overheating
+1.756,51.53,15.444,Overcurrent
+2.25,54.27,8.135,Normal
+7.534,54.18,8.266,Abnormal Vibration
+1.595,99.08,9.924,Overheating
+1.719,60.18,16.492,Overcurrent
+1.933,54.83,7.563,Normal
+8.292,63.18,8.332,Abnormal Vibration
+1.937,91.64,7.9,Overheating
+3.06,56.28,15.987,Overcurrent
+2.619,67.73,9.49,Normal
+7.014,63.95,8.424,Abnormal Vibration
+2.812,81.29,8.807,Overheating
+2.796,53.77,15.388,Overcurrent
+2.358,59.79,9.36,Normal
+6.639,56.57,8.962,Abnormal Vibration
+1.838,82.85,8.982,Overheating
+2.074,55.19,14.694,Overcurrent
+2.635,58.25,7.928,Normal
+6.386,55.05,8.809,Abnormal Vibration
+1.778,95.55,9.761,Overheating
+1.968,54.29,16.545,Overcurrent
+3.053,59.38,7.9,Normal
+7.957,50.53,9.88,Abnormal Vibration
+2.577,94.19,8.053,Overheating
+2.391,55.37,16.242,Overcurrent
+2.357,60.82,9.077,Normal
+6.519,55.87,9.729,Abnormal Vibration
+1.922,100.87,8.948,Overheating
+2.573,51.1,14.346,Overcurrent
+2.64,53.9,9.354,Normal
+7.28,67.21,6.737,Abnormal Vibration
+1.782,94.04,7.117,Overheating
+2.545,52.77,17.786,Overcurrent
+1.601,53.87,7.234,Normal
+6.668,59.04,9.337,Abnormal Vibration
+2.404,89.45,9.201,Overheating
+1.881,68.41,16.092,Overcurrent
+2.942,50.29,9.03,Normal
+7.872,60.66,7.648,Abnormal Vibration
+2.03,96.04,9.149,Overheating
+2.262,62.26,15.967,Overcurrent
+2.661,65.69,7.671,Normal
+8.003,61.21,6.702,Abnormal Vibration
+2.14,95.9,8.067,Overheating
+2.093,57.51,19.259,Overcurrent
+2.732,54.41,8.742,Normal
+6.891,55.18,9.123,Abnormal Vibration
+1.98,96.19,8.55,Overheating
+2.863,60.11,12.123,Overcurrent
+2.479,56.99,6.221,Normal
+7.399,60.61,8.05,Abnormal Vibration
+1.904,101.41,8.137,Overheating
+2.727,59.0,13.368,Overcurrent
+2.389,57.57,7.932,Normal
+7.292,56.6,10.464,Abnormal Vibration
+2.259,94.77,9.675,Overheating
+2.442,58.85,16.279,Overcurrent
+2.843,64.61,9.16,Normal
+7.386,57.38,9.238,Abnormal Vibration
+2.406,94.05,9.93,Overheating
+2.021,57.89,13.221,Overcurrent
+2.41,56.02,7.6,Normal
+6.859,56.82,5.973,Abnormal Vibration
+2.62,89.1,7.245,Overheating
+2.197,50.49,15.759,Overcurrent
+1.635,57.9,8.73,Normal
+6.853,54.51,7.938,Abnormal Vibration
+2.824,90.95,9.008,Overheating
+2.498,58.26,13.902,Overcurrent
+2.47,63.42,10.098,Normal
+6.619,50.76,7.998,Abnormal Vibration
+2.203,99.32,8.654,Overheating
+1.664,58.42,16.718,Overcurrent
+1.715,59.07,10.804,Normal
+7.121,66.13,7.136,Abnormal Vibration
+2.352,90.96,8.715,Overheating
+1.78,54.56,14.184,Overcurrent
+2.157,66.3,7.688,Normal
+9.0,58.54,9.285,Abnormal Vibration
+2.953,100.25,9.459,Overheating
+2.187,59.0,17.904,Overcurrent
+2.682,58.69,8.833,Normal
+8.173,55.34,7.933,Abnormal Vibration
+2.382,85.53,9.251,Overheating
+2.264,65.62,15.724,Overcurrent
+1.585,68.77,9.577,Normal
+6.425,56.21,7.927,Abnormal Vibration
+2.135,102.65,9.891,Overheating
+2.594,60.45,16.288,Overcurrent
+1.812,68.54,8.944,Normal
+7.82,50.69,9.426,Abnormal Vibration
+2.692,95.85,10.725,Overheating
+2.201,60.23,15.412,Overcurrent
+2.219,45.56,9.058,Normal
+7.654,55.61,9.472,Abnormal Vibration
+2.736,92.75,10.434,Overheating
+2.557,57.04,14.793,Overcurrent
+2.369,54.29,7.877,Normal
+6.112,53.78,6.849,Abnormal Vibration
+1.811,94.27,6.871,Overheating
+3.081,54.72,17.258,Overcurrent
+2.05,71.66,7.975,Normal
+6.578,59.91,8.746,Abnormal Vibration
+2.474,91.09,8.893,Overheating
+2.716,56.63,16.598,Overcurrent
+1.76,56.88,8.451,Normal
+7.709,57.1,8.859,Abnormal Vibration
+2.669,89.9,8.339,Overheating
+3.127,50.4,17.027,Overcurrent
+2.648,68.4,8.95,Normal
+6.519,60.23,9.344,Abnormal Vibration
+2.818,99.45,6.888,Overheating
+2.05,64.02,16.811,Overcurrent
+1.982,61.87,8.859,Normal
+6.241,58.17,8.375,Abnormal Vibration
+2.06,96.58,9.952,Overheating
+1.552,58.29,16.376,Overcurrent
+2.431,62.28,8.402,Normal
+8.065,50.25,7.687,Abnormal Vibration
+3.182,95.23,8.364,Overheating
+0.959,51.33,14.045,Overcurrent
+2.304,60.57,6.044,Normal
+6.423,62.71,9.339,Abnormal Vibration
+1.811,100.27,7.788,Overheating
+2.46,57.59,15.777,Overcurrent
+1.995,52.6,7.552,Normal
+6.073,59.76,7.716,Abnormal Vibration
+2.367,93.77,7.667,Overheating
+2.066,53.62,14.903,Overcurrent
+2.611,57.63,8.156,Normal
+8.193,59.55,8.967,Abnormal Vibration
+2.506,91.3,8.822,Overheating
+2.286,64.91,15.197,Overcurrent
+1.616,57.06,7.452,Normal
+6.82,62.51,9.686,Abnormal Vibration
+1.237,99.48,8.783,Overheating
+2.474,58.55,16.552,Overcurrent
+3.122,59.73,8.491,Normal
+6.132,51.41,8.522,Abnormal Vibration
+2.653,87.94,8.978,Overheating
+3.309,54.54,17.784,Overcurrent
+1.886,57.83,8.384,Normal
+7.696,47.06,7.503,Abnormal Vibration
+2.471,91.54,9.053,Overheating
+1.243,51.14,14.594,Overcurrent
+1.483,61.81,7.432,Normal
+8.176,59.35,7.581,Abnormal Vibration
+2.209,95.09,7.447,Overheating
+2.619,54.01,14.032,Overcurrent
+2.182,69.0,6.467,Normal
+8.027,53.98,6.255,Abnormal Vibration
+2.364,87.82,8.257,Overheating
+1.418,56.18,16.397,Overcurrent
+1.637,61.48,8.795,Normal
+8.199,65.47,6.907,Abnormal Vibration
+1.862,89.41,9.364,Overheating
+1.917,55.97,17.121,Overcurrent
+2.283,60.84,8.067,Normal
+7.728,63.51,10.885,Abnormal Vibration
+1.742,99.37,6.216,Overheating
+2.324,54.59,14.15,Overcurrent
+1.709,60.65,10.201,Normal
+6.977,55.55,7.841,Abnormal Vibration
+2.108,91.82,8.452,Overheating
+1.865,60.46,18.048,Overcurrent
+2.159,55.32,9.605,Normal
+7.789,64.51,9.766,Abnormal Vibration
+2.293,100.06,9.64,Overheating
+2.164,64.58,14.538,Overcurrent
+2.469,56.31,8.733,Normal
+6.165,61.52,8.142,Abnormal Vibration
+2.041,100.85,9.691,Overheating
+1.528,61.33,16.51,Overcurrent
+1.36,68.95,7.613,Normal
+8.201,61.22,9.732,Abnormal Vibration
+2.299,99.15,9.569,Overheating
+2.165,59.85,14.551,Overcurrent
+1.963,59.89,10.012,Normal
+8.623,63.31,7.761,Abnormal Vibration
+2.044,90.68,8.471,Overheating
+2.688,56.9,18.688,Overcurrent
+2.155,55.56,9.233,Normal
+7.817,62.85,9.454,Abnormal Vibration
+2.326,100.63,9.023,Overheating
+2.317,50.61,18.058,Overcurrent
+2.302,64.51,9.497,Normal
+6.846,58.58,7.519,Abnormal Vibration
+1.95,98.68,8.786,Overheating
+2.211,68.46,15.015,Overcurrent
+1.8,64.22,6.247,Normal
+6.247,56.55,9.242,Abnormal Vibration
+1.979,98.4,9.268,Overheating
+2.972,57.82,17.887,Overcurrent
+3.093,59.73,8.146,Normal
+7.38,59.64,7.751,Abnormal Vibration
+2.075,96.52,10.952,Overheating
+2.481,56.11,15.117,Overcurrent
+2.618,62.94,9.054,Normal
+7.373,59.76,8.434,Abnormal Vibration
+2.625,84.2,8.02,Overheating
+2.793,55.45,14.781,Overcurrent
+2.511,59.98,7.448,Normal
+7.392,59.28,9.13,Abnormal Vibration
+1.869,88.07,10.393,Overheating
+2.014,63.21,13.999,Overcurrent
+2.009,56.62,7.718,Normal
+6.332,56.78,9.822,Abnormal Vibration
+3.241,97.52,7.216,Overheating
+2.181,59.46,17.634,Overcurrent
+2.006,56.87,7.386,Normal
+7.098,54.38,9.457,Abnormal Vibration
+2.839,96.64,7.833,Overheating
+2.344,54.52,17.512,Overcurrent
+1.696,61.14,8.574,Normal
+6.75,55.35,10.425,Abnormal Vibration
+0.751,94.2,9.716,Overheating
+2.075,65.92,14.983,Overcurrent
+2.04,57.54,8.86,Normal
+6.717,59.95,9.646,Abnormal Vibration
+2.605,93.11,7.313,Overheating
+2.553,59.44,13.971,Overcurrent
+2.533,45.58,8.54,Normal
+7.645,59.64,8.49,Abnormal Vibration
+2.475,99.1,9.587,Overheating
+2.293,58.95,15.969,Overcurrent
+2.114,51.22,8.971,Normal
+6.419,63.69,8.17,Abnormal Vibration
+1.578,96.66,8.354,Overheating
+2.403,62.45,16.715,Overcurrent
+1.257,55.89,9.417,Normal
+7.399,52.27,7.871,Abnormal Vibration
+1.984,102.05,7.28,Overheating
+2.644,52.84,16.247,Overcurrent
+1.862,59.31,7.963,Normal
+7.189,59.67,6.643,Abnormal Vibration
+1.615,93.05,8.964,Overheating
+2.581,61.41,13.325,Overcurrent
+2.336,62.54,8.939,Normal
+8.817,61.03,9.106,Abnormal Vibration
+2.858,99.68,8.359,Overheating
+1.962,58.91,13.74,Overcurrent
+1.146,66.76,7.142,Normal
+6.751,60.18,9.123,Abnormal Vibration
+2.467,89.71,9.658,Overheating
+2.157,56.67,16.734,Overcurrent
+2.139,60.76,8.047,Normal
+6.501,69.31,10.288,Abnormal Vibration
+1.226,90.69,9.739,Overheating
+2.239,57.95,15.634,Overcurrent
+1.974,52.69,8.451,Normal
+6.699,58.75,8.949,Abnormal Vibration
+2.965,87.97,10.307,Overheating
+1.852,52.48,14.621,Overcurrent
+2.02,53.41,9.459,Normal
+6.578,55.46,9.089,Abnormal Vibration
+2.233,94.23,7.439,Overheating
+1.521,55.37,18.055,Overcurrent
+2.313,66.97,8.788,Normal
+6.225,59.75,8.49,Abnormal Vibration
+1.011,93.74,8.695,Overheating
+1.864,60.84,17.429,Overcurrent
+1.958,64.45,8.422,Normal
+8.268,51.93,10.388,Abnormal Vibration
+2.038,100.75,8.497,Overheating
+2.175,47.38,17.816,Overcurrent
+2.151,60.68,8.574,Normal
+8.713,62.67,7.981,Abnormal Vibration
+2.158,90.39,8.202,Overheating
+2.192,57.95,14.765,Overcurrent
+1.142,58.12,7.225,Normal
+7.066,64.33,9.793,Abnormal Vibration
+2.044,90.72,8.821,Overheating
+2.49,58.79,15.061,Overcurrent
+2.152,59.54,7.181,Normal
+7.068,65.1,8.816,Abnormal Vibration
+1.747,96.7,6.809,Overheating
+1.76,54.76,16.843,Overcurrent
+2.594,58.57,8.735,Normal
+7.372,65.72,8.131,Abnormal Vibration
+2.303,96.72,7.581,Overheating
+2.11,55.42,13.535,Overcurrent
+2.64,54.31,9.587,Normal
+6.75,63.8,8.185,Abnormal Vibration
+2.662,92.14,7.318,Overheating
+1.917,55.37,16.9,Overcurrent
+1.754,55.53,9.751,Normal
+6.717,54.4,8.839,Abnormal Vibration
+1.967,94.48,8.074,Overheating
+1.453,54.07,16.38,Overcurrent
+2.152,52.46,9.299,Normal
+6.834,52.86,9.391,Abnormal Vibration
+1.34,100.36,8.705,Overheating
+1.595,58.09,17.261,Overcurrent
+1.733,63.0,9.059,Normal
+7.567,60.75,9.147,Abnormal Vibration
+1.341,95.59,9.617,Overheating
+2.338,55.9,13.599,Overcurrent
+2.43,59.36,7.521,Normal
+7.26,56.77,8.195,Abnormal Vibration
+1.668,93.32,5.649,Overheating
+2.306,59.06,15.819,Overcurrent
+2.109,58.41,8.269,Normal
+6.145,64.8,8.973,Abnormal Vibration
+2.471,93.34,8.935,Overheating
+2.325,52.52,18.034,Overcurrent
+2.194,51.87,7.926,Normal
+7.479,55.41,9.879,Abnormal Vibration
+1.654,97.39,9.305,Overheating
+2.708,62.0,14.725,Overcurrent
+2.102,50.38,8.262,Normal
+8.35,64.81,8.162,Abnormal Vibration
+2.652,95.34,9.534,Overheating
+2.84,59.0,16.022,Overcurrent
+2.212,62.14,7.985,Normal
+6.295,52.5,8.378,Abnormal Vibration
+2.547,93.56,9.066,Overheating
+2.543,55.12,14.019,Overcurrent
+2.864,58.96,7.553,Normal
+7.002,59.85,8.267,Abnormal Vibration
+2.329,88.98,9.29,Overheating
+1.578,52.66,16.239,Overcurrent
+1.457,49.97,9.069,Normal
+7.616,61.27,8.811,Abnormal Vibration
+2.271,98.52,9.694,Overheating
+2.63,57.56,15.128,Overcurrent
+1.936,59.75,8.011,Normal
+6.769,56.32,9.592,Abnormal Vibration
+1.612,93.68,8.142,Overheating
+2.169,60.59,16.989,Overcurrent
+1.906,55.44,9.121,Normal
+6.782,54.47,7.083,Abnormal Vibration
+2.355,93.01,9.542,Overheating
+1.75,57.14,16.31,Overcurrent
+2.603,58.33,8.092,Normal
+9.531,52.03,7.766,Abnormal Vibration
+1.854,85.58,8.503,Overheating
+2.294,57.01,16.659,Overcurrent
+2.003,54.34,8.16,Normal
+7.554,67.58,7.942,Abnormal Vibration
+2.229,93.23,9.217,Overheating
+2.591,50.65,12.423,Overcurrent
+2.165,59.01,6.895,Normal
+7.197,62.22,7.873,Abnormal Vibration
+2.628,93.04,9.603,Overheating
+2.284,56.6,15.59,Overcurrent
+2.136,56.57,8.945,Normal
+7.275,60.67,8.157,Abnormal Vibration
+1.752,90.88,7.82,Overheating
+2.892,55.48,16.468,Overcurrent
+2.373,63.05,9.258,Normal
+6.163,56.82,8.792,Abnormal Vibration
+1.949,90.09,7.324,Overheating
+2.308,60.98,16.794,Overcurrent
+2.351,67.2,9.481,Normal
+6.431,67.69,7.892,Abnormal Vibration
+1.832,89.73,7.611,Overheating
+2.542,53.4,12.976,Overcurrent
+1.889,58.51,8.408,Normal
+7.196,65.65,8.744,Abnormal Vibration
+2.853,95.69,8.899,Overheating
+1.307,52.14,17.556,Overcurrent
+1.464,59.22,8.429,Normal
+7.061,60.25,8.434,Abnormal Vibration
+1.709,95.08,8.527,Overheating
+2.648,58.63,17.291,Overcurrent
+2.348,60.08,8.721,Normal
+8.23,56.74,8.214,Abnormal Vibration
+2.273,95.35,6.611,Overheating
+1.51,54.09,16.538,Overcurrent
+2.007,47.43,7.569,Normal
+6.749,62.41,8.988,Abnormal Vibration
+2.63,90.68,9.776,Overheating
+1.308,56.51,13.785,Overcurrent
+2.638,61.04,7.262,Normal
+7.241,53.98,7.498,Abnormal Vibration
+1.42,96.21,9.973,Overheating
+2.387,59.58,15.701,Overcurrent
+2.503,58.77,9.71,Normal
+7.474,59.3,9.453,Abnormal Vibration
+2.063,97.13,8.33,Overheating
+2.636,54.82,16.804,Overcurrent
+2.375,59.88,10.593,Normal
+7.169,64.53,7.864,Abnormal Vibration
+1.702,89.7,9.104,Overheating
+1.241,54.35,12.827,Overcurrent
+2.395,54.75,8.983,Normal
+7.87,56.1,9.699,Abnormal Vibration
+0.86,94.79,7.601,Overheating
+3.154,64.27,14.389,Overcurrent
+2.112,59.53,9.899,Normal
+7.691,56.47,9.27,Abnormal Vibration
+2.167,88.65,9.022,Overheating
+2.832,57.75,16.524,Overcurrent
+1.197,53.28,8.258,Normal
+6.26,57.73,10.314,Abnormal Vibration
+2.571,87.85,7.444,Overheating
+2.521,61.24,14.334,Overcurrent
+1.447,53.22,7.187,Normal
+5.536,51.25,8.637,Abnormal Vibration
+2.693,100.92,9.571,Overheating
+1.6,54.94,15.622,Overcurrent
+1.832,56.5,8.792,Normal
+8.509,50.77,7.75,Abnormal Vibration
+1.27,98.82,8.196,Overheating
+1.462,59.32,16.279,Overcurrent
+1.698,47.46,7.506,Normal
+7.356,60.12,9.764,Abnormal Vibration
+2.586,95.38,7.497,Overheating
+2.734,53.94,16.991,Overcurrent
