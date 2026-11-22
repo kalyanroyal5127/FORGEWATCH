@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#080e16">
+  <title>Offline | FORGEWATCH</title>
+  <style>
+    :root{color-scheme:dark;font-family:system-ui,"Segoe UI",sans-serif;background:#080e16;color:#eaf4fb}
+    *{box-sizing:border-box}body{min-height:100vh;margin:0;display:grid;place-items:center;padding:24px;background:radial-gradient(ellipse at 50% 0,#11263b 0,transparent 58%),#080e16}
+    main{width:min(100%,480px);padding:36px;border:1px solid #263c50;border-radius:22px;background:#111c28;text-align:center;box-shadow:0 24px 80px #0006}
+    .mark{width:66px;height:66px;margin:0 auto 18px;color:#45d8ec}.eyebrow{color:#55d7e8;font-size:.75rem;font-weight:800;letter-spacing:.16em}h1{margin:10px 0;font-size:clamp(1.7rem,6vw,2.2rem)}p{color:#a9bbca;line-height:1.65}.note{margin-top:24px;padding:14px;border-left:3px solid #45d8ec;border-radius:8px;background:#0b1621;color:#8fa5b8;font-size:.88rem}button{margin-top:18px;padding:12px 22px;border:0;border-radius:10px;background:#42d4e7;color:#06131b;font-weight:800;cursor:pointer}
+  </style>
+</head>
+<body>
+  <main>
+    <svg class="mark" viewBox="0 0 64 64" aria-hidden="true"><path d="M32 4 60 32 32 60 4 32 32 4Z" fill="none" stroke="currentColor" stroke-width="5"/><path d="m32 16 16 16-16 16-16-16 16-16Z" fill="currentColor"/><circle cx="32" cy="32" r="5" fill="#0b121b"/></svg>
+    <div class="eyebrow">FORGEWATCH · OFFLINE</div>
+    <h1>You’re temporarily offline</h1>
+    <p>Reconnect to the internet and try again. Live machine readings, alerts, account pages, and reports are not available offline.</p>
+    <div class="note">FORGEWATCH does not show cached sensor readings as live data.</div>
+    <button type="button" onclick="location.reload()">Try again</button>
+  </main>
+</body>
+</html>

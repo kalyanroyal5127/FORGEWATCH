@@ -85,6 +85,12 @@ The development APK is written under `mobile_app/build/app/outputs/flutter-apk/`
 
 Train the model explicitly with `python -m backend.train_model`. The app also trains a missing model on first startup. Export up to 5,000 latest records from `/api/reports.csv`.
 
+## Install FORGEWATCH on Android (PWA)
+
+The web dashboard can be installed from Chrome on Android when served from its deployed HTTPS origin. Open `https://forgewatch.onrender.com/`, sign in, then use Chrome's menu and choose **Install app** or **Add to Home screen**. The PWA uses the existing Flask application; no separate app server is required.
+
+The web manifest is `web/manifest.webmanifest`, the brand icons are in `web/icons/`, and the root-scoped worker is `web/service-worker.js`. The worker caches only static CSS, JavaScript, icons, the manifest, and a generic offline page. Navigations always go to Flask, and API/authentication/report requests are never cached. Sensor readings and account pages are not available offline. Increment `CACHE_NAME` in `web/service-worker.js` when changing the service worker's cache set so installed clients receive a clean static cache on update.
+
 ## API reference
 
 - `GET /api/health` — server and model status
